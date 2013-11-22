@@ -1,0 +1,18 @@
+peerage	string	,	-1.0	-1.0	1
+df	string	,	-1.0	-1.0	1
+monarch	date	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+remainder to	string	,	-1.0	-1.0	1
+present holder	set of strings	,	-1.0	-1.0	1
+subsidiary titles	date	,	-1.0	-1.0	1
+creation date	date	,	-1.0	-1.0	1
+first holder	set of strings	,	-1.0	-1.0	1
+peerage	string	,	-1.0	-1.0	1
+df	string	,	-1.0	-1.0	1
+monarch	date	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+remainder to	string	,	-1.0	-1.0	1
+present holder	set of strings	,	-1.0	-1.0	1
+subsidiary titles	date	,	-1.0	-1.0	1
+creation date	date	,	-1.0	-1.0	1
+first holder	set of strings	,	-1.0	-1.0	1

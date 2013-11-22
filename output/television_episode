@@ -1,0 +1,28 @@
+Caption	string	,	-1.0	-1.0	3
+Season	numeric	,	1.0	1.0	3
+Guests	string	,	-1.0	-1.0	3
+Episode list	string	,	-1.0	-1.0	3
+Title	string	,	-1.0	-1.0	3
+Episode	numeric	,	15.0	17.0	3
+Writer	string	,	-1.0	-1.0	3
+Production	numeric	,	1733612.0	1733627.0	3
+Image	string	,	-1.0	-1.0	3
+Music	string	,	-1.0	-1.0	3
+Series	string	,	-1.0	-1.0	3
+Prev	string	,	-1.0	-1.0	3
+Director	string	,	-1.0	-1.0	3
+Airdate	date	,	-1.0	-1.0	3
+Caption	string	,	-1.0	-1.0	3
+Season	numeric	,	1.0	1.0	3
+Guests	string	,	-1.0	-1.0	3
+Episode list	string	,	-1.0	-1.0	3
+Title	string	,	-1.0	-1.0	3
+Episode	numeric	,	15.0	17.0	3
+Writer	string	,	-1.0	-1.0	3
+Production	numeric	,	1733612.0	1733627.0	3
+Image	string	,	-1.0	-1.0	3
+Music	string	,	-1.0	-1.0	3
+Series	string	,	-1.0	-1.0	3
+Prev	string	,	-1.0	-1.0	3
+Director	string	,	-1.0	-1.0	3
+Airdate	date	,	-1.0	-1.0	3

@@ -1,0 +1,20 @@
+Name	string	,	-1.0	-1.0	1
+Region	string	,	-1.0	-1.0	1
+State	string	,	-1.0	-1.0	1
+Permit	string	,	-1.0	-1.0	1
+Length	string	,	-1.0	-1.0	1
+To	set of strings	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+Fuel	set of strings	,	-1.0	-1.0	1
+From	set of strings	,	-1.0	-1.0	1
+Name	string	,	-1.0	-1.0	1
+Region	string	,	-1.0	-1.0	1
+State	string	,	-1.0	-1.0	1
+Permit	string	,	-1.0	-1.0	1
+Length	string	,	-1.0	-1.0	1
+To	set of strings	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+Fuel	set of strings	,	-1.0	-1.0	1
+From	set of strings	,	-1.0	-1.0	1

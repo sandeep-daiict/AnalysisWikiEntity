@@ -1,0 +1,56 @@
+alliance	string	,	-1.0	-1.0	2
+IATA	string	,	-1.0	-1.0	2
+destinations	string	,	-1.0	-1.0	2
+equity	date	,	-1.0	-1.0	1
+net_income	string	,	-1.0	-1.0	1
+focus cities	set of strings	,	-1.0	-1.0	1
+ICAO	string	,	-1.0	-1.0	2
+fleet_size	string	,	-1.0	-1.0	2
+operating_income	string	,	-1.0	-1.0	1
+callsign	string	,	-1.0	-1.0	2
+date	date	,	-1.0	-1.0	4
+hubs	string	,	-1.0	-1.0	2
+aoc	string	,	-1.0	-1.0	1
+founded	string	,	-1.0	1959.0	2
+company_slogan	string	,	-1.0	-1.0	2
+subsidiaries	string	,	-1.0	-1.0	2
+lounge	string	,	-1.0	-1.0	2
+logo_size	numeric	,	250.0	250.0	2
+airline	string	,	-1.0	-1.0	2
+revenue	string	,	-1.0	-1.0	1
+logo	string	,	-1.0	-1.0	2
+parent	string	,	-1.0	-1.0	2
+focus_cities	string	,	-1.0	-1.0	1
+headquarters	set of strings	,	-1.0	-1.0	2
+key_people	string	,	-1.0	-1.0	2
+assets	string	,	-1.0	-1.0	1
+frequent_flyer	string	,	-1.0	-1.0	2
+commenced	date	,	-1.0	-1.0	1
+alliance	string	,	-1.0	-1.0	2
+IATA	string	,	-1.0	-1.0	2
+destinations	string	,	-1.0	-1.0	2
+equity	date	,	-1.0	-1.0	1
+net_income	string	,	-1.0	-1.0	1
+focus cities	set of strings	,	-1.0	-1.0	1
+ICAO	string	,	-1.0	-1.0	2
+fleet_size	string	,	-1.0	-1.0	2
+operating_income	string	,	-1.0	-1.0	1
+callsign	string	,	-1.0	-1.0	2
+date	date	,	-1.0	-1.0	4
+hubs	string	,	-1.0	-1.0	2
+aoc	string	,	-1.0	-1.0	1
+founded	string	,	1959.0	1959.0	2
+company_slogan	string	,	-1.0	-1.0	2
+subsidiaries	string	,	-1.0	-1.0	2
+lounge	string	,	-1.0	-1.0	2
+logo_size	numeric	,	250.0	250.0	2
+airline	string	,	-1.0	-1.0	2
+revenue	string	,	-1.0	-1.0	1
+logo	string	,	-1.0	-1.0	2
+parent	string	,	-1.0	-1.0	2
+focus_cities	string	,	-1.0	-1.0	1
+headquarters	set of strings	,	-1.0	-1.0	2
+key_people	string	,	-1.0	-1.0	2
+assets	string	,	-1.0	-1.0	1
+frequent_flyer	string	,	-1.0	-1.0	2
+commenced	date	,	-1.0	-1.0	1

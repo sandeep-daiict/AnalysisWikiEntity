@@ -1,0 +1,52 @@
+Athletes participating	set of strings	,	-1.0	-1.0	6
+1984|Winter |
+  Name	string	,	-1.0	-1.0	1
+Logo	string	,	-1.0	-1.0	6
+Closing ceremony	date	,	-1.0	-1.0	6
+Events	string	,	-1.0	-1.0	6
+Nations participating	numeric	,	29.0	72.0	6
+1920|Summer |
+  Name	string	,	-1.0	-1.0	1
+Opening ceremony	date	,	-1.0	-1.0	6
+Host city	set of strings	,	-1.0	-1.0	6
+Judge's Oath	date	,	-1.0	-1.0	6
+1992|Winter |
+ Name	string	,	-1.0	-1.0	1
+Optional caption	set of strings	,	-1.0	-1.0	5
+1998|Winter|
+| Name	string	,	-1.0	-1.0	1
+1994|Winter |
+  Name	string	,	-1.0	-1.0	1
+Motto	string	,	-1.0	-1.0	1
+Athlete's Oath	string	,	-1.0	-1.0	6
+Olympic Torch	string	,	-1.0	-1.0	6
+1980|Winter |
+  Name	string	,	-1.0	-1.0	1
+Officially opened by	string	,	-1.0	-1.0	6
+Size	numeric	,	150.0	250.0	6
+Athletes participating	set of strings	,	-1.0	-1.0	6
+1984|Winter |
+  Name	string	,	-1.0	-1.0	1
+Logo	string	,	-1.0	-1.0	6
+Closing ceremony	date	,	-1.0	-1.0	6
+Events	string	,	-1.0	-1.0	6
+Nations participating	numeric	,	29.0	72.0	6
+1920|Summer |
+  Name	string	,	-1.0	-1.0	1
+Opening ceremony	date	,	-1.0	-1.0	6
+Host city	set of strings	,	-1.0	-1.0	6
+Judge's Oath	date	,	-1.0	-1.0	6
+1992|Winter |
+ Name	string	,	-1.0	-1.0	1
+Optional caption	set of strings	,	-1.0	-1.0	5
+1998|Winter|
+| Name	string	,	-1.0	-1.0	1
+1994|Winter |
+  Name	string	,	-1.0	-1.0	1
+Motto	string	,	-1.0	-1.0	1
+Athlete's Oath	string	,	-1.0	-1.0	6
+Olympic Torch	string	,	-1.0	-1.0	6
+1980|Winter |
+  Name	string	,	-1.0	-1.0	1
+Officially opened by	string	,	-1.0	-1.0	6
+Size	numeric	,	150.0	250.0	6

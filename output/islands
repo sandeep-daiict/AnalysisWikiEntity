@@ -1,0 +1,48 @@
+native name link	string	,	-1.0	-1.0	1
+highest mount	string	,	-1.0	-1.0	1
+location	string	,	-1.0	-1.0	1
+major islands	string	,	-1.0	-1.0	1
+country largest city	string	,	-1.0	-1.0	1
+country admin divisions	string	,	-1.0	-1.0	1
+area km2	numeric	,	5302.0	5302.0	1
+display	set of strings	,	-1.0	-1.0	1
+elevation m	numeric	,	2449.0	2449.0	1
+country	string	,	-1.0	-1.0	1
+locator map	string	,	-1.0	-1.0	1
+elevation footnotes	set of strings	,	-1.0	-1.0	1
+country largest city population	set of strings	,	-1.0	-1.0	1
+country admin divisions title	string	,	-1.0	-1.0	1
+total islands	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+archipelago	string	,	-1.0	-1.0	1
+population as of	numeric	,	1999.0	1999.0	1
+image caption	string	,	-1.0	-1.0	1
+native name	string	,	-1.0	-1.0	1
+image name	string	,	-1.0	-1.0	1
+coordinates	string	,	-1.0	-1.0	1
+density km2	numeric	,	20.4	20.4	1
+population	numeric	,	109382.0	109382.0	1
+native name link	string	,	-1.0	-1.0	1
+highest mount	string	,	-1.0	-1.0	1
+location	string	,	-1.0	-1.0	1
+major islands	string	,	-1.0	-1.0	1
+country largest city	string	,	-1.0	-1.0	1
+country admin divisions	string	,	-1.0	-1.0	1
+area km2	numeric	,	5302.0	5302.0	1
+display	set of strings	,	-1.0	-1.0	1
+elevation m	numeric	,	2449.0	2449.0	1
+country	string	,	-1.0	-1.0	1
+locator map	string	,	-1.0	-1.0	1
+elevation footnotes	set of strings	,	-1.0	-1.0	1
+country largest city population	set of strings	,	-1.0	-1.0	1
+country admin divisions title	string	,	-1.0	-1.0	1
+total islands	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+archipelago	string	,	-1.0	-1.0	1
+population as of	numeric	,	1999.0	1999.0	1
+image caption	string	,	-1.0	-1.0	1
+native name	string	,	-1.0	-1.0	1
+image name	string	,	-1.0	-1.0	1
+coordinates	string	,	-1.0	-1.0	1
+density km2	numeric	,	20.4	20.4	1
+population	numeric	,	109382.0	109382.0	1

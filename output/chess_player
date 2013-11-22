@@ -1,0 +1,26 @@
+death_date	date	,	-1.0	-1.0	1
+worldchampion	numeric	,	1.9351937E7	1.9351937E7	1
+birth_date	date	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+birth_place	set of strings	,	-1.0	-1.0	1
+womensworldchampion	string	,	-1.0	-1.0	1
+country	string	,	-1.0	-1.0	1
+death_place	set of strings	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	1
+playername	string	,	-1.0	-1.0	1
+rating	string	,	-1.0	-1.0	1
+birthname	string	,	-1.0	-1.0	1
+death_date	date	,	-1.0	-1.0	1
+worldchampion	numeric	,	1.9351937E7	1.9351937E7	1
+birth_date	date	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+birth_place	set of strings	,	-1.0	-1.0	1
+womensworldchampion	string	,	-1.0	-1.0	1
+country	string	,	-1.0	-1.0	1
+death_place	set of strings	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	1
+playername	string	,	-1.0	-1.0	1
+rating	string	,	-1.0	-1.0	1
+birthname	string	,	-1.0	-1.0	1

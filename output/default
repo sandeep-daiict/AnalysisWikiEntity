@@ -1,0 +1,140 @@
+IATA	string	,	-1.0	-1.0	1
+destinations	string	,	-1.0	-1.0	1
+Caption	string	,	-1.0	-1.0	1
+MedlinePlus	string	,	-1.0	-1.0	1
+ICAO	string	,	-1.0	-1.0	1
+fleet_size	numeric	,	6.0	6.0	1
+callsign	string	,	-1.0	-1.0	1
+hubs	string	,	-1.0	-1.0	1
+founded	numeric	,	1993.0	1993.0	1
+DiseasesDB	numeric	,	32656.0	32656.0	1
+ICD10	string	,	-1.0	-1.0	1
+Image	string	,	-1.0	-1.0	1
+eMedicineSubj	string	,	-1.0	-1.0	1
+logo_size	numeric	,	150.0	150.0	1
+airline	string	,	-1.0	-1.0	1
+ICD9	string	,	-1.0	-1.0	1
+logo	string	,	-1.0	-1.0	1
+parent	string	,	-1.0	-1.0	1
+focus_cities	string	,	-1.0	-1.0	1
+headquarters	set of strings	,	-1.0	-1.0	1
+key_people	string	,	-1.0	-1.0	1
+OMIM	string	,	-1.0	-1.0	1
+Name	string	,	-1.0	-1.0	1
+eMedicineTopic	string	,	-1.0	-1.0	1
+ICDO	string	,	-1.0	-1.0	1
+martial_art	date	,	-1.0	-1.0	1
+equity	string	,	-1.0	-1.0	1
+net_income	string	,	-1.0	-1.0	1
+location	set of strings	,	-1.0	-1.0	1
+birth_name	string	,	-1.0	-1.0	1
+company_type	string	,	-1.0	-1.0	1
+image_height	string	,	-1.0	-1.0	1
+children	date	,	-1.0	-1.0	1
+religion	string	,	-1.0	-1.0	1
+known_for	string	,	-1.0	-1.0	1
+rank	date	,	-1.0	-1.0	1
+death_place	string	,	-1.0	-1.0	2
+df	string	,	-1.0	-1.0	2
+style	string	,	-1.0	-1.0	1
+company_name	set of strings	,	-1.0	-1.0	1
+spouse	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	3
+image_width	string	,	-1.0	-1.0	1
+company_slogan	string	,	-1.0	-1.0	1
+prizes	string	,	-1.0	-1.0	1
+partner	string	,	-1.0	-1.0	1
+foundation	numeric	,	1930.0	1930.0	1
+mf	string	,	-1.0	-1.0	1
+industry	string	,	-1.0	-1.0	1
+products	set of strings	,	-1.0	-1.0	1
+other_names	date	,	-1.0	-1.0	1
+revenue	string	,	-1.0	-1.0	1
+death_date	date	,	-1.0	-1.0	2
+occupation	set of strings	,	-1.0	-1.0	2
+birth_date	date	,	-1.0	-1.0	3
+website	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	2
+caption	string	,	-1.0	-1.0	3
+birth_place	set of strings	,	-1.0	-1.0	3
+alma_mater	set of strings	,	-1.0	-1.0	1
+num_employees	numeric	,	20000.0	20000.0	1
+key_people	set of strings	,	-1.0	-1.0	1
+field	set of strings	,	-1.0	-1.0	1
+death_cause	string	,	-1.0	-1.0	1
+nationality	string	,	-1.0	-1.0	1
+residence	set of strings	,	-1.0	-1.0	1
+company_logo	string	,	-1.0	-1.0	1
+work_institutions	string	,	-1.0	-1.0	1
+relatives	string	,	-1.0	-1.0	1
+teacher	string	,	-1.0	-1.0	1
+IATA	string	,	-1.0	-1.0	1
+destinations	string	,	-1.0	-1.0	1
+Caption	string	,	-1.0	-1.0	1
+MedlinePlus	string	,	-1.0	-1.0	1
+ICAO	string	,	-1.0	-1.0	1
+fleet_size	numeric	,	6.0	6.0	1
+callsign	string	,	-1.0	-1.0	1
+hubs	string	,	-1.0	-1.0	1
+founded	numeric	,	1993.0	1993.0	1
+DiseasesDB	numeric	,	32656.0	32656.0	1
+ICD10	string	,	-1.0	-1.0	1
+Image	string	,	-1.0	-1.0	1
+eMedicineSubj	string	,	-1.0	-1.0	1
+logo_size	numeric	,	150.0	150.0	1
+airline	string	,	-1.0	-1.0	1
+ICD9	string	,	-1.0	-1.0	1
+logo	string	,	-1.0	-1.0	1
+parent	string	,	-1.0	-1.0	1
+focus_cities	string	,	-1.0	-1.0	1
+headquarters	set of strings	,	-1.0	-1.0	1
+key_people	string	,	-1.0	-1.0	1
+OMIM	string	,	-1.0	-1.0	1
+Name	string	,	-1.0	-1.0	1
+eMedicineTopic	string	,	-1.0	-1.0	1
+ICDO	string	,	-1.0	-1.0	1
+martial_art	date	,	-1.0	-1.0	1
+equity	string	,	-1.0	-1.0	1
+net_income	string	,	-1.0	-1.0	1
+location	set of strings	,	-1.0	-1.0	1
+birth_name	string	,	-1.0	-1.0	1
+company_type	string	,	-1.0	-1.0	1
+image_height	string	,	-1.0	-1.0	1
+children	date	,	-1.0	-1.0	1
+religion	string	,	-1.0	-1.0	1
+known_for	string	,	-1.0	-1.0	1
+rank	date	,	-1.0	-1.0	1
+death_place	string	,	-1.0	-1.0	2
+df	string	,	-1.0	-1.0	2
+style	string	,	-1.0	-1.0	1
+company_name	set of strings	,	-1.0	-1.0	1
+spouse	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	3
+image_width	string	,	-1.0	-1.0	1
+company_slogan	string	,	-1.0	-1.0	1
+prizes	string	,	-1.0	-1.0	1
+partner	string	,	-1.0	-1.0	1
+foundation	numeric	,	1930.0	1930.0	1
+mf	string	,	-1.0	-1.0	1
+industry	string	,	-1.0	-1.0	1
+products	set of strings	,	-1.0	-1.0	1
+other_names	date	,	-1.0	-1.0	1
+revenue	string	,	-1.0	-1.0	1
+death_date	date	,	-1.0	-1.0	2
+occupation	set of strings	,	-1.0	-1.0	2
+birth_date	date	,	-1.0	-1.0	3
+website	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	2
+caption	string	,	-1.0	-1.0	3
+birth_place	set of strings	,	-1.0	-1.0	3
+alma_mater	set of strings	,	-1.0	-1.0	1
+num_employees	numeric	,	20000.0	20000.0	1
+key_people	set of strings	,	-1.0	-1.0	1
+field	set of strings	,	-1.0	-1.0	1
+death_cause	string	,	-1.0	-1.0	1
+nationality	string	,	-1.0	-1.0	1
+residence	set of strings	,	-1.0	-1.0	1
+company_logo	string	,	-1.0	-1.0	1
+work_institutions	string	,	-1.0	-1.0	1
+relatives	string	,	-1.0	-1.0	1
+teacher	string	,	-1.0	-1.0	1

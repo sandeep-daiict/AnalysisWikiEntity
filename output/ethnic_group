@@ -1,0 +1,16 @@
+poptime	set of strings	,	-1.0	-1.0	2
+|group	string	,	-1.0	-1.0	1
+rels	set of strings	,	-1.0	-1.0	2
+langs	set of strings	,	-1.0	-1.0	2
+popplace	string	,	-1.0	-1.0	2
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+group	string	,	-1.0	-1.0	1
+poptime	set of strings	,	-1.0	-1.0	2
+|group	string	,	-1.0	-1.0	1
+rels	set of strings	,	-1.0	-1.0	2
+langs	set of strings	,	-1.0	-1.0	2
+popplace	string	,	-1.0	-1.0	2
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+group	string	,	-1.0	-1.0	1

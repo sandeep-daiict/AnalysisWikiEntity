@@ -1,0 +1,24 @@
+resides	set of strings	,	-1.0	-1.0	1
+billed	set of strings	,	-1.0	-1.0	1
+weight	string	,	-1.0	-1.0	1
+height	string	,	-1.0	-1.0	1
+birth_date	date	,	-1.0	-1.0	1
+names	string	,	-1.0	-1.0	1
+abbr	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+ft	numeric	,	6.0	6.0	1
+birth_place	set of strings	,	-1.0	-1.0	1
+in	numeric	,	0.0	0.0	1
+trainer	string	,	-1.0	-1.0	1
+resides	set of strings	,	-1.0	-1.0	1
+billed	set of strings	,	-1.0	-1.0	1
+weight	string	,	-1.0	-1.0	1
+height	string	,	-1.0	-1.0	1
+birth_date	date	,	-1.0	-1.0	1
+names	string	,	-1.0	-1.0	1
+abbr	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+ft	numeric	,	6.0	6.0	1
+birth_place	set of strings	,	-1.0	-1.0	1
+in	numeric	,	0.0	0.0	1
+trainer	string	,	-1.0	-1.0	1

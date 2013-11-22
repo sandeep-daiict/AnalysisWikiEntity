@@ -1,0 +1,40 @@
+death_date	date	,	-1.0	-1.0	5
+occupation	set of strings	,	-1.0	-1.0	10
+birth_date	date	,	-1.0	-1.0	13
+website	date	,	-1.0	-1.0	2
+birth_name	string	,	-1.0	-1.0	11
+emmyawards	string	,	-1.0	-1.0	2
+imagesize	numeric	,	200.0	250.0	4
+image	string	,	-1.0	-1.0	12
+caption	set of strings	,	-1.0	-1.0	11
+years_active	string	,	-1.0	-1.0	9
+birth_place	set of strings	,	-1.0	-1.0	13
+death_place	string	,	-1.0	-1.0	5
+spouse	date	,	-1.0	-1.0	7
+alt	string	,	-1.0	-1.0	2
+name	string	,	-1.0	-1.0	11
+bgcolour	string	,	-1.0	-1.0	1
+mf	string	,	-1.0	-1.0	4
+notable role	string	,	-1.0	-1.0	1
+other_names	set of strings	,	-1.0	-1.0	3
+academyawards	string	,	-1.0	-1.0	2
+death_date	date	,	-1.0	-1.0	5
+occupation	set of strings	,	-1.0	-1.0	10
+birth_date	date	,	-1.0	-1.0	13
+website	date	,	-1.0	-1.0	2
+birth_name	string	,	-1.0	-1.0	11
+emmyawards	string	,	-1.0	-1.0	2
+imagesize	numeric	,	200.0	250.0	4
+image	string	,	-1.0	-1.0	12
+caption	set of strings	,	-1.0	-1.0	11
+years_active	string	,	-1.0	-1.0	9
+birth_place	set of strings	,	-1.0	-1.0	13
+death_place	string	,	-1.0	-1.0	5
+spouse	date	,	-1.0	-1.0	7
+alt	string	,	-1.0	-1.0	2
+name	string	,	-1.0	-1.0	11
+bgcolour	string	,	-1.0	-1.0	1
+mf	string	,	-1.0	-1.0	4
+notable role	string	,	-1.0	-1.0	1
+other_names	set of strings	,	-1.0	-1.0	3
+academyawards	string	,	-1.0	-1.0	2

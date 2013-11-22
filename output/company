@@ -1,0 +1,88 @@
+genre	string	,	-1.0	-1.0	2
+area_served	string	,	-1.0	-1.0	3
+Director]]; 
+(January 7, 2002). "[http://www.landmarkeducation.com/display_content.jsp?top	set of strings	,	-1.0	-1.0	1
+market cap	string	,	-1.0	-1.0	1
+successor	string	,	-1.0	-1.0	1
+equity	date	,	-1.0	-1.0	2
+net_income	string	,	-1.0	-1.0	4
+location	set of strings	,	-1.0	-1.0	5
+company_type	string	,	-1.0	-1.0	4
+operating_income	string	,	-1.0	-1.0	4
+divisions	string	,	-1.0	-1.0	2
+defunct	string	,	-1.0	-1.0	1
+type	string	,	-1.0	-1.0	1
+date	date	,	-1.0	-1.0	1
+fate	string	,	-1.0	-1.0	1
+predecessor	string	,	-1.0	-1.0	1
+slogan	set of strings	,	-1.0	-1.0	1
+dissolved	string	,	-1.0	-1.0	1
+locations	string	,	-1.0	-1.0	1
+company_name	string	,	-1.0	-1.0	4
+name	string	,	-1.0	-1.0	1
+company_slogan	string	,	-1.0	-1.0	1
+foundation	numeric	,	-1.0	1944.0	5
+industry	string	,	-1.0	-1.0	5
+products	string	,	-1.0	-1.0	5
+revenue	string	,	-1.0	-1.0	5
+founder	string	,	-1.0	-1.0	3
+logo	string	,	-1.0	-1.0	1
+services	string	,	-1.0	-1.0	1
+parent	string	,	-1.0	-1.0	3
+location_country	string	,	-1.0	-1.0	2
+location_city	string	,	-1.0	-1.0	2
+footnotes	string	,	-1.0	-1.0	1
+homepage	string	,	-1.0	-1.0	4
+num_employees	string	,	-1.0	-1.0	5
+key_people	set of strings	,	-1.0	-1.0	5
+vector_logo	string	,	-1.0	-1.0	1
+assets	date	,	-1.0	-1.0	2
+aum	string	,	-1.0	-1.0	1
+company_logo	string	,	-1.0	-1.0	4
+origins	string	,	-1.0	-1.0	1
+subsid	string	,	-1.0	-1.0	4
+owner	string	,	-1.0	-1.0	2
+genre	string	,	-1.0	-1.0	2
+area_served	string	,	-1.0	-1.0	3
+Director]]; 
+(January 7, 2002). "[http://www.landmarkeducation.com/display_content.jsp?top	set of strings	,	-1.0	-1.0	1
+market cap	string	,	-1.0	-1.0	1
+successor	string	,	-1.0	-1.0	1
+equity	date	,	-1.0	-1.0	2
+net_income	string	,	-1.0	-1.0	4
+location	set of strings	,	-1.0	-1.0	5
+company_type	string	,	-1.0	-1.0	4
+operating_income	string	,	-1.0	-1.0	4
+divisions	string	,	-1.0	-1.0	2
+defunct	string	,	-1.0	-1.0	1
+type	string	,	-1.0	-1.0	1
+date	date	,	-1.0	-1.0	1
+fate	string	,	-1.0	-1.0	1
+predecessor	string	,	-1.0	-1.0	1
+slogan	set of strings	,	-1.0	-1.0	1
+dissolved	string	,	-1.0	-1.0	1
+locations	string	,	-1.0	-1.0	1
+company_name	string	,	-1.0	-1.0	4
+name	string	,	-1.0	-1.0	1
+company_slogan	string	,	-1.0	-1.0	1
+foundation	numeric	,	1944.0	1944.0	5
+industry	string	,	-1.0	-1.0	5
+products	string	,	-1.0	-1.0	5
+revenue	string	,	-1.0	-1.0	5
+founder	string	,	-1.0	-1.0	3
+logo	string	,	-1.0	-1.0	1
+services	string	,	-1.0	-1.0	1
+parent	string	,	-1.0	-1.0	3
+location_country	string	,	-1.0	-1.0	2
+location_city	string	,	-1.0	-1.0	2
+footnotes	string	,	-1.0	-1.0	1
+homepage	string	,	-1.0	-1.0	4
+num_employees	string	,	-1.0	-1.0	5
+key_people	set of strings	,	-1.0	-1.0	5
+vector_logo	string	,	-1.0	-1.0	1
+assets	date	,	-1.0	-1.0	2
+aum	string	,	-1.0	-1.0	1
+company_logo	string	,	-1.0	-1.0	4
+origins	string	,	-1.0	-1.0	1
+subsid	string	,	-1.0	-1.0	4
+owner	string	,	-1.0	-1.0	2

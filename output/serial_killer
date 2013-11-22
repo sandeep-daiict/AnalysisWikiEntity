@@ -1,0 +1,40 @@
+apprehended	date	,	-1.0	-1.0	2
+death_date	date	,	-1.0	-1.0	2
+cause	string	,	-1.0	-1.0	2
+beginyear	numeric	,	1590.0	1984.0	2
+victims	numeric	,	8.0	80650.0	2
+birth_date	date	,	-1.0	-1.0	2
+alias	string	,	-1.0	-1.0	2
+conviction	string	,	-1.0	-1.0	1
+endyear	numeric	,	1610.0	1999.0	2
+states	string	,	-1.0	-1.0	2
+children	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	2
+caption	string	,	-1.0	-1.0	2
+birth_place	set of strings	,	-1.0	-1.0	2
+country	string	,	-1.0	-1.0	2
+purported victims	string	,	-1.0	-1.0	1
+df	string	,	-1.0	-1.0	1
+image_size	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	2
+birthname	string	,	-1.0	-1.0	2
+apprehended	date	,	-1.0	-1.0	2
+death_date	date	,	-1.0	-1.0	2
+cause	string	,	-1.0	-1.0	2
+beginyear	numeric	,	1590.0	1984.0	2
+victims	numeric	,	8.0	80650.0	2
+birth_date	date	,	-1.0	-1.0	2
+alias	string	,	-1.0	-1.0	2
+conviction	string	,	-1.0	-1.0	1
+endyear	numeric	,	1610.0	1999.0	2
+states	string	,	-1.0	-1.0	2
+children	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	2
+caption	string	,	-1.0	-1.0	2
+birth_place	set of strings	,	-1.0	-1.0	2
+country	string	,	-1.0	-1.0	2
+purported victims	string	,	-1.0	-1.0	1
+df	string	,	-1.0	-1.0	1
+image_size	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	2
+birthname	string	,	-1.0	-1.0	2

@@ -1,0 +1,30 @@
+logo	string	,	-1.0	-1.0	1
+screenshot	string	,	-1.0	-1.0	1
+caption	set of strings	,	-1.0	-1.0	1
+type	string	,	-1.0	-1.0	1
+registration	string	,	-1.0	-1.0	1
+current status	string	,	-1.0	-1.0	1
+url	string	,	-1.0	-1.0	1
+launch date	date	,	-1.0	-1.0	1
+slogan	string	,	-1.0	-1.0	1
+author	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+owner	string	,	-1.0	-1.0	1
+language	string	,	-1.0	-1.0	1
+commercial	string	,	-1.0	-1.0	1
+revenue	string	,	-1.0	-1.0	1
+logo	string	,	-1.0	-1.0	1
+screenshot	string	,	-1.0	-1.0	1
+caption	set of strings	,	-1.0	-1.0	1
+type	string	,	-1.0	-1.0	1
+registration	string	,	-1.0	-1.0	1
+current status	string	,	-1.0	-1.0	1
+url	string	,	-1.0	-1.0	1
+launch date	date	,	-1.0	-1.0	1
+slogan	string	,	-1.0	-1.0	1
+author	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+owner	string	,	-1.0	-1.0	1
+language	string	,	-1.0	-1.0	1
+commercial	string	,	-1.0	-1.0	1
+revenue	string	,	-1.0	-1.0	1

@@ -1,0 +1,26 @@
+Music videos	string	,	-1.0	-1.0	1
+Caption	string	,	-1.0	-1.0	1
+Studio	numeric	,	15.0	15.0	1
+Alt	string	,	-1.0	-1.0	1
+B-sides	string	,	-1.0	-1.0	1
+Tribute	string	,	-1.0	-1.0	1
+Singles	string	,	-1.0	-1.0	1
+Compilation	numeric	,	18.0	18.0	1
+EP	string	,	-1.0	-1.0	1
+Live	numeric	,	1.0	1.0	1
+Image	string	,	-1.0	-1.0	1
+Artist	string	,	-1.0	-1.0	1
+Video	string	,	-1.0	-1.0	1
+Music videos	string	,	-1.0	-1.0	1
+Caption	string	,	-1.0	-1.0	1
+Studio	numeric	,	15.0	15.0	1
+Alt	string	,	-1.0	-1.0	1
+B-sides	string	,	-1.0	-1.0	1
+Tribute	string	,	-1.0	-1.0	1
+Singles	string	,	-1.0	-1.0	1
+Compilation	numeric	,	18.0	18.0	1
+EP	string	,	-1.0	-1.0	1
+Live	numeric	,	1.0	1.0	1
+Image	string	,	-1.0	-1.0	1
+Artist	string	,	-1.0	-1.0	1
+Video	string	,	-1.0	-1.0	1

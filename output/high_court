@@ -1,0 +1,36 @@
+court_name	string	,	-1.0	-1.0	1
+chiefjudgename	string	,	-1.0	-1.0	1
+website	string	,	-1.0	-1.0	1
+location	string	,	-1.0	-1.0	1
+terms	string	,	-1.0	-1.0	1
+termend	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+imagesize	numeric	,	190.0	190.0	1
+established	date	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+type	string	,	-1.0	-1.0	1
+appeals	string	,	-1.0	-1.0	1
+country	string	,	-1.0	-1.0	1
+authority	set of strings	,	-1.0	-1.0	1
+positions	numeric	,	9.0	9.0	1
+chiefjudgetitle	string	,	-1.0	-1.0	1
+termstart	date	,	-1.0	-1.0	1
+coordinates	string	,	-1.0	-1.0	1
+court_name	string	,	-1.0	-1.0	1
+chiefjudgename	string	,	-1.0	-1.0	1
+website	string	,	-1.0	-1.0	1
+location	string	,	-1.0	-1.0	1
+terms	string	,	-1.0	-1.0	1
+termend	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+imagesize	numeric	,	190.0	190.0	1
+established	date	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+type	string	,	-1.0	-1.0	1
+appeals	string	,	-1.0	-1.0	1
+country	string	,	-1.0	-1.0	1
+authority	set of strings	,	-1.0	-1.0	1
+positions	numeric	,	9.0	9.0	1
+chiefjudgetitle	string	,	-1.0	-1.0	1
+termstart	date	,	-1.0	-1.0	1
+coordinates	string	,	-1.0	-1.0	1

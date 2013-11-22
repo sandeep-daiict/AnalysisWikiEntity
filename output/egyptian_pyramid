@@ -1,0 +1,16 @@
+Period	string	,	-1.0	-1.0	1
+Name	string	,	-1.0	-1.0	1
+Owner	string	,	-1.0	-1.0	1
+Architect	string	,	-1.0	-1.0	1
+Date	date	,	-1.0	-1.0	1
+Type	string	,	-1.0	-1.0	1
+Image	string	,	-1.0	-1.0	1
+Height	string	,	-1.0	-1.0	1
+Period	string	,	-1.0	-1.0	1
+Name	string	,	-1.0	-1.0	1
+Owner	string	,	-1.0	-1.0	1
+Architect	string	,	-1.0	-1.0	1
+Date	date	,	-1.0	-1.0	1
+Type	string	,	-1.0	-1.0	1
+Image	string	,	-1.0	-1.0	1
+Height	string	,	-1.0	-1.0	1

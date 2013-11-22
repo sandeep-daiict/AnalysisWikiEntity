@@ -1,0 +1,18 @@
+title	string	,	-1.0	-1.0	1
+injuries	set of strings	,	-1.0	-1.0	1
+location	set of strings	,	-1.0	-1.0	1
+fatalities	numeric	,	29.0	29.0	1
+target	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+type	string	,	-1.0	-1.0	1
+date	date	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	1
+injuries	set of strings	,	-1.0	-1.0	1
+location	set of strings	,	-1.0	-1.0	1
+fatalities	numeric	,	29.0	29.0	1
+target	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+type	string	,	-1.0	-1.0	1
+date	date	,	-1.0	-1.0	1

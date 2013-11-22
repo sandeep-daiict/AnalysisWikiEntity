@@ -1,0 +1,26 @@
+death_date	date	,	-1.0	-1.0	1
+subject_name	string	,	-1.0	-1.0	1
+occupation	string	,	-1.0	-1.0	1
+parents	string	,	-1.0	-1.0	1
+birth_date	date	,	-1.0	-1.0	1
+image_caption	string	,	-1.0	-1.0	1
+birth_place	set of strings	,	-1.0	-1.0	1
+conviction_status	string	,	-1.0	-1.0	1
+death_place	string	,	-1.0	-1.0	1
+charge	string	,	-1.0	-1.0	1
+image_size	string	,	-1.0	-1.0	1
+spouse	string	,	-1.0	-1.0	1
+conviction_penalty	string	,	-1.0	-1.0	1
+death_date	date	,	-1.0	-1.0	1
+subject_name	string	,	-1.0	-1.0	1
+occupation	string	,	-1.0	-1.0	1
+parents	string	,	-1.0	-1.0	1
+birth_date	date	,	-1.0	-1.0	1
+image_caption	string	,	-1.0	-1.0	1
+birth_place	set of strings	,	-1.0	-1.0	1
+conviction_status	string	,	-1.0	-1.0	1
+death_place	string	,	-1.0	-1.0	1
+charge	string	,	-1.0	-1.0	1
+image_size	string	,	-1.0	-1.0	1
+spouse	string	,	-1.0	-1.0	1
+conviction_penalty	string	,	-1.0	-1.0	1

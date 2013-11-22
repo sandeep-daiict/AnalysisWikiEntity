@@ -1,0 +1,36 @@
+successor	string	,	-1.0	-1.0	1
+date of birth	date	,	-1.0	-1.0	1
+term1	date	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+vicepresident	string	,	-1.0	-1.0	1
+president1	string	,	-1.0	-1.0	1
+predecessor2	string	,	-1.0	-1.0	1
+predecessor1	string	,	-1.0	-1.0	1
+df	string	,	-1.0	-1.0	2
+order	string	,	-1.0	-1.0	1
+place of birth	set of strings	,	-1.0	-1.0	1
+term	date	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+date of death	date	,	-1.0	-1.0	1
+order1	string	,	-1.0	-1.0	1
+successor1	string	,	-1.0	-1.0	1
+successor2	string	,	-1.0	-1.0	1
+order2	string	,	-1.0	-1.0	1
+successor	string	,	-1.0	-1.0	1
+date of birth	date	,	-1.0	-1.0	1
+term1	date	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+vicepresident	string	,	-1.0	-1.0	1
+president1	string	,	-1.0	-1.0	1
+predecessor2	string	,	-1.0	-1.0	1
+predecessor1	string	,	-1.0	-1.0	1
+df	string	,	-1.0	-1.0	2
+order	string	,	-1.0	-1.0	1
+place of birth	set of strings	,	-1.0	-1.0	1
+term	date	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+date of death	date	,	-1.0	-1.0	1
+order1	string	,	-1.0	-1.0	1
+successor1	string	,	-1.0	-1.0	1
+successor2	string	,	-1.0	-1.0	1
+order2	string	,	-1.0	-1.0	1

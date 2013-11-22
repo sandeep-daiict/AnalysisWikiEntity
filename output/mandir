@@ -1,0 +1,14 @@
+primary_deity	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	set of strings	,	-1.0	-1.0	1
+architecture	string	,	-1.0	-1.0	1
+proper_name	string	,	-1.0	-1.0	1
+date_built	date	,	-1.0	-1.0	1
+creator	string	,	-1.0	-1.0	1
+primary_deity	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	set of strings	,	-1.0	-1.0	1
+architecture	string	,	-1.0	-1.0	1
+proper_name	string	,	-1.0	-1.0	1
+date_built	date	,	-1.0	-1.0	1
+creator	string	,	-1.0	-1.0	1

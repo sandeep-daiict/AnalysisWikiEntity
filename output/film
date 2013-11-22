@@ -1,0 +1,48 @@
+music	string	,	-1.0	-1.0	19
+studio	string	,	-1.0	-1.0	5
+budget	string	,	-1.0	-1.0	11
+gross	numeric	,	-1.0	7.42128461E8	5
+editing	string	,	-1.0	-1.0	19
+narrator	string	,	-1.0	-1.0	5
+preceded by	string	,	-1.0	-1.0	1
+runtime	string	,	-1.0	-1.0	20
+image	string	,	-1.0	-1.0	20
+caption	string	,	-1.0	-1.0	17
+preceded_by	string	,	-1.0	-1.0	3
+director	string	,	-1.0	-1.0	20
+country	string	,	-1.0	-1.0	15
+released	date	,	-1.0	-1.0	19
+image_size	string	,	-1.0	-1.0	5
+alt	set of strings	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	20
+producer	string	,	-1.0	-1.0	19
+distributor	string	,	-1.0	-1.0	19
+cinematography	string	,	-1.0	-1.0	19
+language	string	,	-1.0	-1.0	16
+writer	string	,	-1.0	-1.0	20
+release	date	,	-1.0	-1.0	1
+starring	string	,	-1.0	-1.0	20
+music	string	,	-1.0	-1.0	19
+studio	string	,	-1.0	-1.0	5
+budget	string	,	-1.0	-1.0	11
+gross	numeric	,	7.42128461E8	7.42128461E8	5
+editing	string	,	-1.0	-1.0	19
+narrator	string	,	-1.0	-1.0	5
+preceded by	string	,	-1.0	-1.0	1
+runtime	string	,	-1.0	-1.0	20
+image	string	,	-1.0	-1.0	20
+caption	string	,	-1.0	-1.0	17
+preceded_by	string	,	-1.0	-1.0	3
+director	string	,	-1.0	-1.0	20
+country	string	,	-1.0	-1.0	15
+released	date	,	-1.0	-1.0	19
+image_size	string	,	-1.0	-1.0	5
+alt	set of strings	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	20
+producer	string	,	-1.0	-1.0	19
+distributor	string	,	-1.0	-1.0	19
+cinematography	string	,	-1.0	-1.0	19
+language	string	,	-1.0	-1.0	16
+writer	string	,	-1.0	-1.0	20
+release	date	,	-1.0	-1.0	1
+starring	string	,	-1.0	-1.0	20

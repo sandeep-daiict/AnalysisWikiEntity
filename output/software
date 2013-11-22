@@ -1,0 +1,22 @@
+genre	string	,	-1.0	-1.0	1
+logo	date	,	-1.0	-1.0	1
+screenshot	string	,	-1.0	-1.0	1
+latest_release_version	numeric	,	-1.0	-1.0	1
+developer	string	,	-1.0	-1.0	1
+name	date	,	-1.0	-1.0	1
+latest_release_date	date	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+license	string	,	-1.0	-1.0	1
+commercial	string	,	-1.0	-1.0	1
+operating_system	set of strings	,	-1.0	-1.0	1
+genre	string	,	-1.0	-1.0	1
+logo	date	,	-1.0	-1.0	1
+screenshot	string	,	-1.0	-1.0	1
+latest_release_version	numeric	,	-1.0	-1.0	1
+developer	string	,	-1.0	-1.0	1
+name	date	,	-1.0	-1.0	1
+latest_release_date	date	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+license	string	,	-1.0	-1.0	1
+commercial	string	,	-1.0	-1.0	1
+operating_system	set of strings	,	-1.0	-1.0	1

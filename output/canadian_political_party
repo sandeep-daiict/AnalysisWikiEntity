@@ -1,0 +1,28 @@
+int_alignment	string	,	-1.0	-1.0	1
+president	string	,	-1.0	-1.0	1
+party_logo	string	,	-1.0	-1.0	1
+status	string	,	-1.0	-1.0	1
+name_native	string	,	-1.0	-1.0	1
+class	string	,	-1.0	-1.0	1
+party_name	string	,	-1.0	-1.0	1
+headquarters	string	,	-1.0	-1.0	1
+colours	set of strings	,	-1.0	-1.0	1
+party_wikicolourid	string	,	-1.0	-1.0	1
+leader	string	,	-1.0	-1.0	1
+ideology	set of strings	,	-1.0	-1.0	1
+dissolution	set of strings	,	-1.0	-1.0	1
+foundation	date	,	-1.0	-1.0	1
+int_alignment	string	,	-1.0	-1.0	1
+president	string	,	-1.0	-1.0	1
+party_logo	string	,	-1.0	-1.0	1
+status	string	,	-1.0	-1.0	1
+name_native	string	,	-1.0	-1.0	1
+class	string	,	-1.0	-1.0	1
+party_name	string	,	-1.0	-1.0	1
+headquarters	string	,	-1.0	-1.0	1
+colours	set of strings	,	-1.0	-1.0	1
+party_wikicolourid	string	,	-1.0	-1.0	1
+leader	string	,	-1.0	-1.0	1
+ideology	set of strings	,	-1.0	-1.0	1
+dissolution	set of strings	,	-1.0	-1.0	1
+foundation	date	,	-1.0	-1.0	1

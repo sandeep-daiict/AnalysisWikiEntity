@@ -1,0 +1,82 @@
+ancestry	set of strings	,	-1.0	-1.0	1
+genre	set of strings	,	-1.0	-1.0	1
+tradchinesename	string	,	-1.0	-1.0	1
+parents	string	,	-1.0	-1.0	1
+simpchinesename	string	,	-1.0	-1.0	1
+jyutpingchinesename	string	,	-1.0	-1.0	1
+children	string	,	-1.0	-1.0	1
+influences	string	,	-1.0	-1.0	1
+goldenhorseawards	string	,	-1.0	-1.0	1
+hkfcsawards	string	,	-1.0	-1.0	1
+othername	string	,	-1.0	-1.0	1
+deathdate	date	,	-1.0	-1.0	1
+ntsawards	string	,	-1.0	-1.0	1
+df	string	,	-1.0	2.0022100188195E20	2
+spouse	string	,	-1.0	-1.0	1
+restingplacecoordinates	string	,	-1.0	-1.0	1
+chinesename	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+birthdate	date	,	-1.0	-1.0	1
+voicetype	string	,	-1.0	-1.0	1
+partner	string	,	-1.0	-1.0	1
+influenced	string	,	-1.0	-1.0	1
+currentmembers	string	,	-1.0	-1.0	1
+goldenbauhiniaawards	string	,	-1.0	-1.0	1
+occupation	set of strings	,	-1.0	-1.0	1
+website	string	,	-1.0	-1.0	1
+pinyinchinesename	string	,	-1.0	-1.0	1
+origin	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+pastmembers	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+label	string	,	-1.0	-1.0	1
+goldenroosterawards	string	,	-1.0	-1.0	1
+instrument	string	,	-1.0	-1.0	1
+associatedact	string	,	-1.0	-1.0	1
+deathplace	string	,	-1.0	-1.0	1
+restingplace	string	,	-1.0	-1.0	1
+hongkongfilmwards	string	,	-1.0	-1.0	1
+birthplace	set of strings	,	-1.0	-1.0	1
+birthname	string	,	-1.0	-1.0	1
+yearsactive	numeric	,	1.9601996E7	1.9601996E7	1
+ancestry	set of strings	,	-1.0	-1.0	1
+genre	set of strings	,	-1.0	-1.0	1
+tradchinesename	string	,	-1.0	-1.0	1
+parents	string	,	-1.0	-1.0	1
+simpchinesename	string	,	-1.0	-1.0	1
+jyutpingchinesename	string	,	-1.0	-1.0	1
+children	string	,	-1.0	-1.0	1
+influences	string	,	-1.0	-1.0	1
+goldenhorseawards	string	,	-1.0	-1.0	1
+hkfcsawards	string	,	-1.0	-1.0	1
+othername	string	,	-1.0	-1.0	1
+deathdate	date	,	-1.0	-1.0	1
+ntsawards	string	,	-1.0	-1.0	1
+df	string	,	-1.0	2.0022100188195E20	2
+spouse	string	,	-1.0	-1.0	1
+restingplacecoordinates	string	,	-1.0	-1.0	1
+chinesename	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+birthdate	date	,	-1.0	-1.0	1
+voicetype	string	,	-1.0	-1.0	1
+partner	string	,	-1.0	-1.0	1
+influenced	string	,	-1.0	-1.0	1
+currentmembers	string	,	-1.0	-1.0	1
+goldenbauhiniaawards	string	,	-1.0	-1.0	1
+occupation	set of strings	,	-1.0	-1.0	1
+website	string	,	-1.0	-1.0	1
+pinyinchinesename	string	,	-1.0	-1.0	1
+origin	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+pastmembers	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+label	string	,	-1.0	-1.0	1
+goldenroosterawards	string	,	-1.0	-1.0	1
+instrument	string	,	-1.0	-1.0	1
+associatedact	string	,	-1.0	-1.0	1
+deathplace	string	,	-1.0	-1.0	1
+restingplace	string	,	-1.0	-1.0	1
+hongkongfilmwards	string	,	-1.0	-1.0	1
+birthplace	set of strings	,	-1.0	-1.0	1
+birthname	string	,	-1.0	-1.0	1
+yearsactive	numeric	,	1.9601996E7	1.9601996E7	1

@@ -1,0 +1,28 @@
+birth_date	date	,	-1.0	-1.0	1
+birth_date place	date	,	-1.0	-1.0	1
+school_tradition	string	,	-1.0	-1.0	1
+image_caption	string	,	-1.0	-1.0	1
+influences	set of strings	,	-1.0	-1.0	1
+field	string	,	-1.0	-1.0	1
+nationality	set of strings	,	-1.0	-1.0	1
+image_name	string	,	-1.0	-1.0	1
+color	date	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+mf	string	,	-1.0	-1.0	1
+opposed	string	,	-1.0	-1.0	1
+influenced	string	,	-1.0	-1.0	1
+contributions	string	,	-1.0	-1.0	1
+birth_date	date	,	-1.0	-1.0	1
+birth_date place	date	,	-1.0	-1.0	1
+school_tradition	string	,	-1.0	-1.0	1
+image_caption	string	,	-1.0	-1.0	1
+influences	set of strings	,	-1.0	-1.0	1
+field	string	,	-1.0	-1.0	1
+nationality	set of strings	,	-1.0	-1.0	1
+image_name	string	,	-1.0	-1.0	1
+color	date	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+mf	string	,	-1.0	-1.0	1
+opposed	string	,	-1.0	-1.0	1
+influenced	string	,	-1.0	-1.0	1
+contributions	string	,	-1.0	-1.0	1

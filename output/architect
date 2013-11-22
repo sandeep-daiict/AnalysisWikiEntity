@@ -1,0 +1,18 @@
+death_date	date	,	-1.0	-1.0	1
+death_place	string	,	-1.0	-1.0	1
+df	string	,	-1.0	-1.0	1
+nationality	string	,	-1.0	-1.0	1
+birth_date	date	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	set of strings	,	-1.0	-1.0	1
+birth_place	set of strings	,	-1.0	-1.0	1
+death_date	date	,	-1.0	-1.0	1
+death_place	string	,	-1.0	-1.0	1
+df	string	,	-1.0	-1.0	1
+nationality	string	,	-1.0	-1.0	1
+birth_date	date	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	set of strings	,	-1.0	-1.0	1
+birth_place	set of strings	,	-1.0	-1.0	1

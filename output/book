@@ -1,0 +1,44 @@
+genre	date	,	-1.0	-1.0	4
+series	string	,	-1.0	-1.0	4
+media_type	string	,	-1.0	-1.0	4
+subject	string	,	-1.0	-1.0	3
+| name	string	,	-1.0	-1.0	3
+pages	string	,	-1.0	-1.0	4
+title_orig	string	,	-1.0	-1.0	4
+image	string	,	-1.0	-1.0	4
+preceded_by	string	,	-1.0	-1.0	4
+oclc	numeric	,	5.9352597E7	2.9970192E8	2
+cover_artist	string	,	-1.0	-1.0	4
+image_caption	string	,	-1.0	-1.0	4
+english_release_date	date	,	-1.0	-1.0	3
+publisher	set of strings	,	-1.0	-1.0	4
+country	string	,	-1.0	-1.0	4
+author	string	,	-1.0	-1.0	4
+illustrator	string	,	-1.0	-1.0	3
+translator	string	,	-1.0	-1.0	4
+isbn	numeric	,	-1.0	9.780853698456E12	4
+name	string	,	-1.0	-1.0	1
+release_date	date	,	-1.0	-1.0	4
+language	string	,	-1.0	-1.0	4
+genre	date	,	-1.0	-1.0	4
+series	string	,	-1.0	-1.0	4
+media_type	string	,	-1.0	-1.0	4
+subject	string	,	-1.0	-1.0	3
+| name	string	,	-1.0	-1.0	3
+pages	string	,	-1.0	-1.0	4
+title_orig	string	,	-1.0	-1.0	4
+image	string	,	-1.0	-1.0	4
+preceded_by	string	,	-1.0	-1.0	4
+oclc	numeric	,	5.9352597E7	2.9970192E8	2
+cover_artist	string	,	-1.0	-1.0	4
+image_caption	string	,	-1.0	-1.0	4
+english_release_date	date	,	-1.0	-1.0	3
+publisher	set of strings	,	-1.0	-1.0	4
+country	string	,	-1.0	-1.0	4
+author	string	,	-1.0	-1.0	4
+illustrator	string	,	-1.0	-1.0	3
+translator	string	,	-1.0	-1.0	4
+isbn	numeric	,	9.780853698456E12	9.780853698456E12	4
+name	string	,	-1.0	-1.0	1
+release_date	date	,	-1.0	-1.0	4
+language	string	,	-1.0	-1.0	4

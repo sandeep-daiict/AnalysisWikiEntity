@@ -1,0 +1,36 @@
+spouse 1	string	,	-1.0	-1.0	1
+successor	string	,	-1.0	-1.0	1
+spouse 2	string	,	-1.0	-1.0	1
+issue	set of strings	,	-1.0	-1.0	1
+date of birth	date	,	-1.0	-1.0	1
+reign	numeric	,	282283.0	282283.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+father	string	,	-1.0	-1.0	1
+predecessor	string	,	-1.0	-1.0	1
+full name	date	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	1
+mother	string	,	-1.0	-1.0	1
+place of birth	string	,	-1.0	-1.0	1
+place of death	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+date of death	date	,	-1.0	-1.0	1
+dynasty	string	,	-1.0	-1.0	1
+spouse 1	string	,	-1.0	-1.0	1
+successor	string	,	-1.0	-1.0	1
+spouse 2	string	,	-1.0	-1.0	1
+issue	set of strings	,	-1.0	-1.0	1
+date of birth	date	,	-1.0	-1.0	1
+reign	numeric	,	282283.0	282283.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+father	string	,	-1.0	-1.0	1
+predecessor	string	,	-1.0	-1.0	1
+full name	date	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	1
+mother	string	,	-1.0	-1.0	1
+place of birth	string	,	-1.0	-1.0	1
+place of death	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+date of death	date	,	-1.0	-1.0	1
+dynasty	string	,	-1.0	-1.0	1

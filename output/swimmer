@@ -1,0 +1,32 @@
+nicknames	string	,	-1.0	-1.0	1
+weight	string	,	-1.0	-1.0	1
+collegeteam	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+imagesize	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+deathdate	date	,	-1.0	-1.0	1
+deathplace	string	,	-1.0	-1.0	1
+height	string	,	-1.0	-1.0	1
+nationality	string	,	-1.0	-1.0	1
+birthplace	set of strings	,	-1.0	-1.0	1
+club	string	,	-1.0	-1.0	1
+birthdate	date	,	-1.0	-1.0	1
+swimmername	date	,	-1.0	-1.0	1
+fullname	date	,	-1.0	-1.0	1
+strokes	string	,	-1.0	-1.0	1
+nicknames	string	,	-1.0	-1.0	1
+weight	string	,	-1.0	-1.0	1
+collegeteam	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+imagesize	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+deathdate	date	,	-1.0	-1.0	1
+deathplace	string	,	-1.0	-1.0	1
+height	string	,	-1.0	-1.0	1
+nationality	string	,	-1.0	-1.0	1
+birthplace	set of strings	,	-1.0	-1.0	1
+club	string	,	-1.0	-1.0	1
+birthdate	date	,	-1.0	-1.0	1
+swimmername	date	,	-1.0	-1.0	1
+fullname	date	,	-1.0	-1.0	1
+strokes	string	,	-1.0	-1.0	1

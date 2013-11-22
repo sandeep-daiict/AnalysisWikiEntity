@@ -1,0 +1,42 @@
+B-side	string	,	-1.0	-1.0	1
+Released	date	,	-1.0	-1.0	1
+Format	string	,	-1.0	-1.0	1
+Alt	set of strings	,	-1.0	-1.0	1
+Misc	string	,	-1.0	-1.0	1
+Type	string	,	-1.0	-1.0	1
+Recorded	date	,	-1.0	-1.0	1
+Cover	string	,	-1.0	-1.0	1
+Next single	set of strings	,	-1.0	-1.0	1
+Name	string	,	-1.0	-1.0	1
+Writer	set of strings	,	-1.0	-1.0	1
+This single	string	,	-1.0	-1.0	1
+Length	numeric	,	208.0	208.0	1
+Genre	set of strings	,	-1.0	-1.0	1
+filename	string	,	-1.0	-1.0	1
+Producer	string	,	-1.0	-1.0	1
+Label	set of strings	,	-1.0	-1.0	1
+Certification	string	,	-1.0	-1.0	1
+Artist	string	,	-1.0	-1.0	1
+Last single	string	,	-1.0	-1.0	1
+Album	string	,	-1.0	-1.0	1
+B-side	string	,	-1.0	-1.0	1
+Released	date	,	-1.0	-1.0	1
+Format	string	,	-1.0	-1.0	1
+Alt	set of strings	,	-1.0	-1.0	1
+Misc	string	,	-1.0	-1.0	1
+Type	string	,	-1.0	-1.0	1
+Recorded	date	,	-1.0	-1.0	1
+Cover	string	,	-1.0	-1.0	1
+Next single	set of strings	,	-1.0	-1.0	1
+Name	string	,	-1.0	-1.0	1
+Writer	set of strings	,	-1.0	-1.0	1
+This single	string	,	-1.0	-1.0	1
+Length	numeric	,	208.0	208.0	1
+Genre	set of strings	,	-1.0	-1.0	1
+filename	string	,	-1.0	-1.0	1
+Producer	string	,	-1.0	-1.0	1
+Label	set of strings	,	-1.0	-1.0	1
+Certification	string	,	-1.0	-1.0	1
+Artist	string	,	-1.0	-1.0	1
+Last single	string	,	-1.0	-1.0	1
+Album	string	,	-1.0	-1.0	1

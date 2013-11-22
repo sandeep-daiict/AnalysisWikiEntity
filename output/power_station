@@ -1,0 +1,50 @@
+annual_generation	string	,	-1.0	-1.0	1
+technology	string	,	-1.0	-1.0	1
+location	string	,	-1.0	-1.0	1
+city	string	,	-1.0	-1.0	1
+coordinates_display	set of strings	,	-1.0	-1.0	1
+lat_d	numeric	,	51.4818	51.4818	1
+conveyance	string	,	-1.0	-1.0	1
+cooling_water	string	,	-1.0	-1.0	1
+station_name	string	,	-1.0	-1.0	1
+mine_type	string	,	-1.0	-1.0	1
+status	date	,	-1.0	-1.0	1
+decommissioned	string	,	-1.0	-1.0	1
+image	date	,	-1.0	-1.0	1
+commissioned	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+long_d	numeric	,	0.1447	0.1447	1
+installed_capacity	string	,	-1.0	-1.0	1
+country	string	,	-1.0	-1.0	1
+coordinates_type	date	,	-1.0	-1.0	1
+max_capacity	string	,	-1.0	-1.0	1
+fuel_type	set of strings	,	-1.0	-1.0	1
+owner	string	,	-1.0	-1.0	1
+boiler_type	string	,	-1.0	-1.0	1
+turbines	string	,	-1.0	-1.0	1
+employees	string	,	-1.0	-1.0	1
+annual_generation	string	,	-1.0	-1.0	1
+technology	string	,	-1.0	-1.0	1
+location	string	,	-1.0	-1.0	1
+city	string	,	-1.0	-1.0	1
+coordinates_display	set of strings	,	-1.0	-1.0	1
+lat_d	numeric	,	51.4818	51.4818	1
+conveyance	string	,	-1.0	-1.0	1
+cooling_water	string	,	-1.0	-1.0	1
+station_name	string	,	-1.0	-1.0	1
+mine_type	string	,	-1.0	-1.0	1
+status	date	,	-1.0	-1.0	1
+decommissioned	string	,	-1.0	-1.0	1
+image	date	,	-1.0	-1.0	1
+commissioned	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+long_d	numeric	,	0.1447	0.1447	1
+installed_capacity	string	,	-1.0	-1.0	1
+country	string	,	-1.0	-1.0	1
+coordinates_type	date	,	-1.0	-1.0	1
+max_capacity	string	,	-1.0	-1.0	1
+fuel_type	set of strings	,	-1.0	-1.0	1
+owner	string	,	-1.0	-1.0	1
+boiler_type	string	,	-1.0	-1.0	1
+turbines	string	,	-1.0	-1.0	1
+employees	string	,	-1.0	-1.0	1

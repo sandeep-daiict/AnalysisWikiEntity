@@ -1,0 +1,40 @@
+top_speed	string	,	-1.0	-1.0	1
+transit_type	string	,	-1.0	-1.0	1
+stations	string	,	-1.0	-1.0	1
+locale	set of strings	,	-1.0	-1.0	1
+abbr	string	,	-1.0	-1.0	4
+image	string	,	-1.0	-1.0	1
+system_length	string	,	-1.0	-1.0	1
+operator	string	,	-1.0	-1.0	1
+minimum_radius_of_curvature	string	,	-1.0	-1.0	1
+lk	string	,	-1.0	-1.0	2
+image2	date	,	-1.0	-1.0	1
+el	string	,	-1.0	-1.0	1
+ridership	numeric	,	-1.0	-1.0	1
+began_operation	date	,	-1.0	-1.0	1
+track_gauge	date	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+owner	string	,	-1.0	-1.0	1
+average_speed	string	,	-1.0	-1.0	1
+lines	set of strings	,	-1.0	-1.0	1
+vehicles	numeric	,	298.0	298.0	1
+top_speed	string	,	-1.0	-1.0	1
+transit_type	string	,	-1.0	-1.0	1
+stations	string	,	-1.0	-1.0	1
+locale	set of strings	,	-1.0	-1.0	1
+abbr	string	,	-1.0	-1.0	4
+image	string	,	-1.0	-1.0	1
+system_length	string	,	-1.0	-1.0	1
+operator	string	,	-1.0	-1.0	1
+minimum_radius_of_curvature	string	,	-1.0	-1.0	1
+lk	string	,	-1.0	-1.0	2
+image2	date	,	-1.0	-1.0	1
+el	string	,	-1.0	-1.0	1
+ridership	numeric	,	-1.0	-1.0	1
+began_operation	date	,	-1.0	-1.0	1
+track_gauge	date	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+owner	string	,	-1.0	-1.0	1
+average_speed	string	,	-1.0	-1.0	1
+lines	set of strings	,	-1.0	-1.0	1
+vehicles	numeric	,	298.0	298.0	1

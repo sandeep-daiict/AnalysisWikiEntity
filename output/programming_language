@@ -1,0 +1,16 @@
+website	string	,	-1.0	-1.0	1
+paradigm	set of strings	,	-1.0	-1.0	1
+developer	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+typing	set of strings	,	-1.0	-1.0	1
+year	numeric	,	1998.0	1998.0	1
+operating_system	string	,	-1.0	-1.0	1
+influenced_by	set of strings	,	-1.0	-1.0	1
+website	string	,	-1.0	-1.0	1
+paradigm	set of strings	,	-1.0	-1.0	1
+developer	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+typing	set of strings	,	-1.0	-1.0	1
+year	numeric	,	1998.0	1998.0	1
+operating_system	string	,	-1.0	-1.0	1
+influenced_by	set of strings	,	-1.0	-1.0	1

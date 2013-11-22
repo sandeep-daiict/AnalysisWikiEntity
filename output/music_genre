@@ -1,0 +1,24 @@
+regional_scenes	string	,	-1.0	-1.0	1
+cultural_origins	set of strings	,	-1.0	-1.0	3
+subgenres	string	,	-1.0	-1.0	2
+subgenrelist	string	,	-1.0	-1.0	2
+color	string	,	-1.0	-1.0	3
+name	string	,	-1.0	-1.0	3
+fusiongenres	string	,	-1.0	-1.0	2
+derivatives	string	,	-1.0	-1.0	3
+instruments	string	,	-1.0	-1.0	3
+bgcolor	string	,	-1.0	-1.0	3
+popularity	string	,	-1.0	-1.0	3
+stylistic_origins	set of strings	,	-1.0	-1.0	3
+regional_scenes	string	,	-1.0	-1.0	1
+cultural_origins	set of strings	,	-1.0	-1.0	3
+subgenres	string	,	-1.0	-1.0	2
+subgenrelist	string	,	-1.0	-1.0	2
+color	string	,	-1.0	-1.0	3
+name	string	,	-1.0	-1.0	3
+fusiongenres	string	,	-1.0	-1.0	2
+derivatives	string	,	-1.0	-1.0	3
+instruments	string	,	-1.0	-1.0	3
+bgcolor	string	,	-1.0	-1.0	3
+popularity	string	,	-1.0	-1.0	3
+stylistic_origins	set of strings	,	-1.0	-1.0	3

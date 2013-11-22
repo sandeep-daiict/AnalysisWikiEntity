@@ -1,0 +1,7 @@
+Methodology :
+	Used wikiparser to extract infobox 
+	get entity type by next word seperated by space
+	attributes between | seperated by = with values
+	to get type if follow any date format or attr name have string "date" or any of months word in string then "date"
+	for numeric type if total number of num,eric digit in string with length>20 is half of total length then numeric if any numeric char 		in value for length< 20 then numeric
+	ranges if - or "to" present 

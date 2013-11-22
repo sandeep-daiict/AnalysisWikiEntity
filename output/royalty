@@ -1,0 +1,72 @@
+spouses	set of strings	,	-1.0	-1.0	1
+succession	set of strings	,	-1.0	-1.0	2
+successor	string	,	-1.0	-1.0	5
+standard_img	string	,	-1.0	-1.0	1
+issue	set of strings	,	-1.0	-1.0	10
+date of birth	date	,	-1.0	-1.0	11
+place of christening	set of strings	,	-1.0	-1.0	1
+house	string	,	-1.0	-1.0	6
+father	string	,	-1.0	-1.0	11
+predecessor	string	,	-1.0	-1.0	4
+coronation	string	,	-1.0	-1.0	4
+religion	string	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	9
+date of christening	date	,	-1.0	-1.0	4
+df	string	,	-1.0	-1.0	11
+spouse	set of strings	,	-1.0	-1.0	7
+name	string	,	-1.0	-1.0	8
+date of death	date	,	-1.0	-1.0	4
+othertitles	string	,	-1.0	-1.0	3
+suc-type	string	,	-1.0	-1.0	1
+occupation	string	,	-1.0	-1.0	1
+imgw	numeric	,	150.0	220.0	4
+reign	date	,	-1.0	-1.0	4
+monarch
+|name	string	,	-1.0	-1.0	3
+image	string	,	-1.0	-1.0	11
+styles	string	,	-1.0	-1.0	2
+caption	string	,	-1.0	-1.0	9
+full name	string	,	-1.0	-1.0	10
+royal anthem	string	,	-1.0	-1.0	3
+mother	date	,	-1.0	-1.0	11
+consort	string	,	-1.0	-1.0	3
+place of birth	string	,	-1.0	-1.0	9
+place of death	string	,	-1.0	-1.0	3
+royal house	string	,	-1.0	-1.0	4
+titles	string	,	-1.0	-1.0	4
+spouses	set of strings	,	-1.0	-1.0	1
+succession	set of strings	,	-1.0	-1.0	2
+successor	string	,	-1.0	-1.0	5
+standard_img	string	,	-1.0	-1.0	1
+issue	set of strings	,	-1.0	-1.0	10
+date of birth	date	,	-1.0	-1.0	11
+place of christening	set of strings	,	-1.0	-1.0	1
+house	string	,	-1.0	-1.0	6
+father	string	,	-1.0	-1.0	11
+predecessor	string	,	-1.0	-1.0	4
+coronation	string	,	-1.0	-1.0	4
+religion	string	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	9
+date of christening	date	,	-1.0	-1.0	4
+df	string	,	-1.0	-1.0	11
+spouse	set of strings	,	-1.0	-1.0	7
+name	string	,	-1.0	-1.0	8
+date of death	date	,	-1.0	-1.0	4
+othertitles	string	,	-1.0	-1.0	3
+suc-type	string	,	-1.0	-1.0	1
+occupation	string	,	-1.0	-1.0	1
+imgw	numeric	,	150.0	220.0	4
+reign	date	,	-1.0	-1.0	4
+monarch
+|name	string	,	-1.0	-1.0	3
+image	string	,	-1.0	-1.0	11
+styles	string	,	-1.0	-1.0	2
+caption	string	,	-1.0	-1.0	9
+full name	string	,	-1.0	-1.0	10
+royal anthem	string	,	-1.0	-1.0	3
+mother	date	,	-1.0	-1.0	11
+consort	string	,	-1.0	-1.0	3
+place of birth	string	,	-1.0	-1.0	9
+place of death	string	,	-1.0	-1.0	3
+royal house	string	,	-1.0	-1.0	4
+titles	string	,	-1.0	-1.0	4

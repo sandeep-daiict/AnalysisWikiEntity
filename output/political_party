@@ -1,0 +1,32 @@
+logo	string	,	-1.0	-1.0	1
+website	string	,	-1.0	-1.0	1
+membership	string	,	-1.0	-1.0	1
+colors	string	,	-1.0	-1.0	1
+national	string	,	-1.0	-1.0	1
+international	string	,	-1.0	-1.0	1
+name_native	string	,	-1.0	-1.0	1
+membership_year	string	,	-1.0	-1.0	1
+name_english	string	,	-1.0	-1.0	1
+headquarters	set of strings	,	-1.0	-1.0	1
+youth_wing	string	,	-1.0	-1.0	1
+leader	string	,	-1.0	-1.0	1
+ideology	string	,	-1.0	-1.0	1
+dissolution	string	,	-1.0	-1.0	1
+foundation	date	,	-1.0	-1.0	1
+newspaper	string	,	-1.0	-1.0	1
+logo	string	,	-1.0	-1.0	1
+website	string	,	-1.0	-1.0	1
+membership	string	,	-1.0	-1.0	1
+colors	string	,	-1.0	-1.0	1
+national	string	,	-1.0	-1.0	1
+international	string	,	-1.0	-1.0	1
+name_native	string	,	-1.0	-1.0	1
+membership_year	string	,	-1.0	-1.0	1
+name_english	string	,	-1.0	-1.0	1
+headquarters	set of strings	,	-1.0	-1.0	1
+youth_wing	string	,	-1.0	-1.0	1
+leader	string	,	-1.0	-1.0	1
+ideology	string	,	-1.0	-1.0	1
+dissolution	string	,	-1.0	-1.0	1
+foundation	date	,	-1.0	-1.0	1
+newspaper	string	,	-1.0	-1.0	1

@@ -1,0 +1,890 @@
+blank5_info	string	,	-1.0	-1.0	3
+twin3	string	,	-1.0	-1.0	5
+twin2	set of strings	,	-1.0	-1.0	5
+twin1	set of strings	,	-1.0	-1.0	5
+government_footnotes	string	,	-1.0	-1.0	9860
+elevation_min_ft	numeric	,	-1.0	-1.0	9
+twin7	string	,	-1.0	-1.0	3
+twin6	string	,	-1.0	-1.0	4
+area_land_km2	numeric	,	-1.0	337.2	11149
+twin5	string	,	-1.0	-1.0	4
+twin4	string	,	-1.0	-1.0	4
+area_waeter	numeric	,	22.5	22.5	1
+parts	string	,	-1.0	-1.0	10
+flag_size	string	,	-1.0	-1.0	522
+seal_caption	set of strings	,	-1.0	-1.0	1
+date_of_incorporation	date	,	-1.0	-1.0	1
+demographics2_info3	string	,	-1.0	-1.0	1
+demographics2_info4	string	,	-1.0	-1.0	1
+nixkname	string	,	-1.0	-1.0	1
+demographics2_info1	string	,	-1.0	-1.0	1
+demographics2_info2	string	,	-1.0	-1.0	1
+blank5_name	string	,	-1.0	-1.0	3
+demographics2_info5	string	,	-1.0	-1.0	1
+image_dot_map	string	,	-1.0	-1.0	99
+demonym	string	,	-1.0	-1.0	2
+area_total_sq_mi	numeric	,	-1.0	134.3	10790
+image_seal	string	,	-1.0	-1.0	10829
+nickname	string	,	-1.0	-1.0	10587
+blank3_name_sec1	string	,	-1.0	-1.0	1
+blank3_name_sec2	string	,	-1.0	-1.0	1
+area km2	string	,	-1.0	-1.0	3
+image	string	,	-1.0	-1.0	15
+image_caption	string	,	-1.0	-1.0	10910
+blank4_info	string	,	-1.0	-1.0	3
+postal_code      Proxy-Connection: keep-alive
+Cache-Control: max-age	string	,	-1.0	-1.0	1
+elevation_min_m	numeric	,	-1.0	-1.0	9
+3	string	,	-1.0	-1.0	160
+pop_est_as_of	string	,	-1.0	-1.0	16
+2	string	,	-1.0	-1.0	162
+twin5_country	string	,	-1.0	-1.0	4
+1	string	,	-1.0	-1.0	163
+image_alt	string	,	-1.0	-1.0	30
+population_total	numeric	,	-1.0	56298.0	11182
+7	string	,	-1.0	-1.0	8
+6	string	,	-1.0	-1.0	8
+5	date	,	-1.0	-1.0	12
+4	date	,	-1.0	-1.0	159
+9	string	,	-1.0	-1.0	3
+8	string	,	-1.0	-1.0	6
+area_land_sq_mi	numeric	,	-1.0	130.2	10789
+area_blank1_km2	string	,	-1.0	-1.0	32
+leader_title1	string	,	-1.0	-1.0	10217
+subdivision_type	string	,	-1.0	-1.0	11220
+accessdate	date	,	-1.0	-1.0	1
+blank_name_sec2	string	,	-1.0	-1.0	5
+favorite_food	string	,	-1.0	-1.0	1
+area_total_dunam	string	,	-1.0	-1.0	3
+|image_map	string	,	-1.0	-1.0	1
+blank_name_sec1	string	,	-1.0	-1.0	17
+dot_mapsize	string	,	-1.0	-1.0	97
+leader_title6	string	,	-1.0	-1.0	2
+leader_title7	string	,	-1.0	-1.0	1
+leader_title4	string	,	-1.0	-1.0	98
+twin6_country	string	,	-1.0	-1.0	4
+leader_title5	string	,	-1.0	-1.0	4
+leader_title2	string	,	-1.0	-1.0	206
+leader_title3	string	,	-1.0	-1.0	166
+map	string	,	-1.0	-1.0	2
+percent_water	numeric	,	0.24	0.24	1
+long_seconds	numeric	,	23.0	26.0	2
+dot_map_caption	string	,	-1.0	-1.0	99
+latNS	string	,	-1.0	-1.0	11175
+population_density_urban_mi2	string	,	-1.0	-1.0	1
+Official Website	string	,	-1.0	-1.0	1
+shield_size	string	,	-1.0	-1.0	524
+blank_name        Proxy-Connection: keep-alive
+Cache-Control: max-age	string	,	-1.0	-1.0	1
+list_style	string	,	-1.0	-1.0	161
+total_area_sq_mi	numeric	,	6.6	6.6	1
+elevation_max_footnotes	string	,	-1.0	-1.0	1
+flag_alt	string	,	-1.0	-1.0	183
+y	numeric	,	71.0	71.0	1
+x	numeric	,	192.0	192.0	1
+area_blank2_sq_mi	string	,	-1.0	-1.0	1
+established_date3	date	,	-1.0	-1.0	417
+established_date4	date	,	-1.0	-1.0	1
+established_date1	date	,	-1.0	-1.0	133
+established_date2	date	,	-1.0	-1.0	584
+locmapin	string	,	-1.0	-1.0	3
+architecture	string	,	-1.0	-1.0	3
+The LEADER OF HECTOR	string	,	-1.0	-1.0	1
+founder	string	,	-1.0	-1.0	9
+|official_name	set of strings	,	-1.0	-1.0	8
+display	string	,	-1.0	-1.0	1
+population_as_of	string	,	-1.0	-1.0	11215
+image map	string	,	-1.0	-1.0	4
+nearest_city	set of strings	,	-1.0	-1.0	1
+coordinates_type	string	,	-1.0	-1.0	4736
+postal_code	numeric	,	-1.0	13803.0	10792
+other_name	string	,	-1.0	-1.0	136
+area_urban_km2	string	,	-1.0	-1.0	299
+[[Mayor]] Lionel C. Guay
+area_magnitude	numeric	,	-1.0	-1.0	1
+population_Metro Region	numeric	,	630703.0	630703.0	1
+blank1_info	string	,	-1.0	979397.0	10775
+blank5_info_sec1	string	,	-1.0	-1.0	1
+blank5_info_sec2	string	,	-1.0	-1.0	1
+Council_Members	set of strings	,	-1.0	-1.0	1
+population date	date	,	-1.0	-1.0	3
+area	string	,	-1.0	-1.0	3
+name	string	,	-1.0	-1.0	106
+coordinates_display	set of strings	,	-1.0	-1.0	9473
+subdivision_name	string	,	-1.0	-1.0	11221
+area_water_percent	numeric	,	-1.0	-1.0	482
+population	numeric	,	-1.0	13.782	40
+image_skyline	string	,	-1.0	-1.0	10959
+mapsize	numeric	,	-1.0	-1.0	11149
+population_density_metro_km2	string	,	-1.0	-1.0	147
+imagesize	string	,	-1.0	-1.0	10884
+native_name_lang	string	,	-1.0	-1.0	12
+parts_style	set of strings	,	-1.0	-1.0	8
+founder_title	string	,	-1.0	-1.0	1
+subdivision_name3	set of strings	,	-1.0	-1.0	303
+subdivision_name4	string	,	-1.0	-1.0	116
+subdivision_name1	string	,	-1.0	-1.0	11218
+subdivision_name2	set of strings	,	-1.0	-1.0	10846
+native_name	string	,	-1.0	-1.0	216
+postal2_code_type	string	,	-1.0	-1.0	2
+lat_seconds	numeric	,	10.0	30.0	2
+utc_offset1	numeric	,	-1.0	-1.0	10
+extinct_date	date	,	-1.0	-1.0	2
+blank1_name	string	,	-1.0	-1.0	10779
+city_motto	string	,	-1.0	-1.0	1
+p2	string	,	-1.0	-1.0	7
+p1	string	,	-1.0	-1.0	7
+longd	numeric	,	-1.0	106.0	11176
+postal_code_type	string	,	-1.0	-1.0	10793
+population_blank2_title	string	,	-1.0	-1.0	4
+longm	numeric	,	-1.0	59.0	11056
+area_footnotes	string	,	-1.0	-1.0	10287
+longs	numeric	,	-1.0	59.0	11011
+image_size	string	,	-1.0	-1.0	3
+settlement_type	string	,	-1.0	-1.0	11186
+image_map_size	numeric	,	250.0	250.0	3
+blank_info_sec2	string	,	-1.0	-1.0	1
+blank_name	string	,	-1.0	-1.0	10781
+blank_info_sec1	set of strings	,	-1.0	3638264.0	6
+area_magnitude	string	,	-1.0	-1.0	10786
+population_est	string	,	-1.0	-1.0	16
+governing_body	string	,	-1.0	-1.0	3
+extinct_title	string	,	-1.0	-1.0	2
+coor_pinpoint	string	,	-1.0	-1.0	5
+county	string	,	-1.0	-1.0	1
+elevation_max_ft	numeric	,	-1.0	-1.0	8
+population_urban	string	,	-1.0	-1.0	304
+image_flag	string	,	-1.0	-1.0	10974
+region	string	,	-1.0	-1.0	1
+pushpin_map_alt	string	,	-1.0	-1.0	4
+Village President	string	,	-1.0	-1.0	2
+blank1_info_sec2	string	,	-1.0	-1.0	1
+publisher	string	,	-1.0	-1.0	2
+twin1_country	string	,	-1.0	-1.0	5
+population_density_metro_sq_mi	string	,	-1.0	-1.0	146
+blank1_info_sec1	set of strings	,	-1.0	953925.0	15
+timezone_DST	string	,	-1.0	-1.0	11167
+built	numeric	,	1867.0	1877.0	2
+area_water_sq_mi	numeric	,	-1.0	9.1	10785
+twin4_country	string	,	-1.0	-1.0	4
+area_water_km2	numeric	,	-1.0	23.6	11151
+demographics1_footnotes	string	,	-1.0	-1.0	1
+unit_pref	string	,	-1.0	-1.0	9375
+pushpin_map_caption	string	,	-1.0	-1.0	3633
+leader_title	string	,	-1.0	-1.0	10819
+government_type1	string	,	-1.0	-1.0	1
+area_metro_km2	string	,	-1.0	-1.0	292
+Mayor_name	string	,	-1.0	-1.0	1
+location	set of strings	,	-1.0	-1.0	2
+nickname(s)	set of strings	,	-1.0	-1.0	1
+twin3_country	string	,	-1.0	-1.0	5
+type	string	,	-1.0	-1.0	1
+population_metro	string	,	-1.0	-1.0	457
+area_urban_sq_mi	string	,	-1.0	-1.0	291
+elevation_max_m	numeric	,	-1.0	-1.0	8
+leader_name	string	,	-1.0	-1.0	10887
+area_rank	string	,	-1.0	-1.0	1
+lats	numeric	,	-1.0	59.0	11025
+government_footnote	string	,	-1.0	-1.0	2
+title_style	string	,	-1.0	-1.0	157
+latd	numeric	,	-1.0	44.0	11176
+utc_offset1_DST	numeric	,	-1.0	-1.0	10
+citylogo_size	string	,	-1.0	-1.0	2
+latm	numeric	,	-1.0	59.0	11056
+pushpin_label_position	string	,	-1.0	-1.0	3665
+blank3_name	string	,	-1.0	-1.0	3
+Mayor	string	,	-1.0	-1.0	2
+image_shield	string	,	-1.0	-1.0	566
+demographics2_footnotes	string	,	-1.0	-1.0	1
+population_township	numeric	,	35138.0	35138.0	1
+timezone_CST	string	,	-1.0	-1.0	1
+coordinate_type	string	,	-1.0	-1.0	1
+blank_info	string	,	-1.0	3676617.0	10781
+established_title	string	,	-1.0	-1.0	10617
+demographics_type1	string	,	-1.0	-1.0	1
+demographics_type2	string	,	-1.0	-1.0	1
+coordinates	string	,	-1.0	-1.0	7
+Official_nickname	string	,	-1.0	-1.0	1
+region_link	date	,	-1.0	-1.0	1
+added	date	,	-1.0	-1.0	3
+area_blank1_title	string	,	-1.0	-1.0	33
+school_district	string	,	-1.0	-1.0	1
+population_blank1_title	string	,	-1.0	-1.0	100
+dot_y	string	,	-1.0	-1.0	99
+dot_x	string	,	-1.0	-1.0	99
+elevation_footnotes	string	,	-1.0	-1.0	9960
+timezone1_DST	string	,	-1.0	-1.0	10
+seal_size	string	,	-1.0	-1.0	316
+blank6_info_sec2	string	,	-1.0	-1.0	1
+blank6_info_sec1	string	,	-1.0	-1.0	1
+density_total_km2	string	,	-1.0	-1.0	1
+seat	string	,	-1.0	-1.0	20
+total_type	string	,	-1.0	-1.0	11
+named_for	string	,	-1.0	-1.0	17
+utc_offset_DST	numeric	,	-1.0	4.0	11032
+Thadius Beefawitz	string	,	-1.0	-1.0	1
+shield_alt	string	,	-1.0	-1.0	184
+demographics1_info1	string	,	-1.0	-1.0	1
+demographics1_info5	string	,	-1.0	-1.0	1
+population_county	numeric	,	8279.0	56665.0	2
+demographics1_info4	string	,	-1.0	-1.0	1
+area_blank2_title	string	,	-1.0	-1.0	1
+demographics1_info3	string	,	-1.0	-1.0	1
+demographics1_info2	string	,	-1.0	-1.0	1
+elevation_min_footnotes	string	,	-1.0	-1.0	2
+blank6_name	string	,	-1.0	-1.0	3
+latitude	string	,	-1.0	-1.0	31
+timezone1	string	,	-1.0	-1.0	10
+area_toteal	numeric	,	47.4	47.4	1
+date	date	,	-1.0	-1.0	4
+11	set of strings	,	-1.0	-1.0	1
+map_caption1	string	,	-1.0	-1.0	10773
+seal_alt	string	,	-1.0	-1.0	175
+long_minutes	numeric	,	26.0	33.0	2
+coordinates_footnotes	string	,	-1.0	-1.0	6
+Zip_code	string	,	-1.0	-1.0	1
+area_blank2_km2	string	,	-1.0	-1.0	1
+utc_offset	numeric	,	-1.0	5.0	11169
+10	date	,	-1.0	-1.0	2
+long_degrees	numeric	,	72.0	88.0	2
+map_alt	string	,	-1.0	-1.0	11
+Legislative district	string	,	-1.0	-1.0	1
+coa	string	,	-1.0	-1.0	1
+blank4_name_sec1	string	,	-1.0	-1.0	1
+blank4_name_sec2	string	,	-1.0	-1.0	1
+town_councilors	numeric	,	9.0	9.0	1
+area-km2	string	,	-1.0	-1.0	3
+Sweetest Band ever	string	,	-1.0	-1.0	1
+leader_name7	string	,	-1.0	-1.0	1
+timezone	string	,	-1.0	-1.0	11169
+blank_emblem_type	string	,	-1.0	-1.0	49
+leader_name5	string	,	-1.0	-1.0	4
+leader_name6	string	,	-1.0	-1.0	2
+leader_name3	string	,	-1.0	-1.0	167
+leader_name4	string	,	-1.0	-1.0	99
+leader_name1	string	,	-1.0	-1.0	10215
+leader_name2	string	,	-1.0	-1.0	208
+leader_party	string	,	-1.0	-1.0	93
+population_density_blank1_km2	string	,	-1.0	-1.0	84
+blank4_info_sec1	string	,	-1.0	-1.0	1
+blank4_info_sec2	string	,	-1.0	-1.0	1
+blank3_info	string	,	-1.0	-1.0	3
+population_density_sq_mi	string	,	-1.0	58.7	10668
+population_density_blank1_sq_mi	string	,	-1.0	-1.0	84
+twin7_country	string	,	-1.0	-1.0	3
+area_total_sq_super_mi	numeric	,	5.0	5.0	1
+population_metro_km2	string	,	-1.0	-1.0	1
+width	string	,	-1.0	20.0	7
+url	string	,	-1.0	-1.0	3
+coor_type	string	,	-1.0	-1.0	6
+footnotes	string	,	-1.0	-1.0	175
+architect	set of strings	,	-1.0	-1.0	3
+population_demonym	string	,	-1.0	-1.0	5
+population_blank2	string	,	-1.0	-1.0	4
+maps[hide] Weather averages for St. Louis, Missouri  
+Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year 
+Average high °F (°C) 39
+(3) 44
+(6) 54
+(12) 67
+(19) 76
+(24) 85
+(30) 89
+(32) 87
+(31) 80
+(27) 69
+(21) 54
+(12) 43
+(6) 66
+(19) 
+Average low °F (°C) 21
+(-6) 25
+(-3) 34
+(1) 46
+(7) 55
+(12) 65
+(18) 69
+(20) 67
+(19) 59
+(15) 48
+(8) 36
+(2) 26
+(-3) 46
+(7) 
+Precipitation inches (mm) 2.0
+(51) 2.1
+(53) 3.3
+(84) 3.6
+(91) 3.9
+(99) 3.8
+(97) 3.8
+(97) 3.0
+(84) 3.0
+(84) 2.8
+(71) 3.1
+(79) 2.6
+(66) 37.1
+(942) 
+Source: Weatherbase[22] January 2007 
+ize1	string	,	-1.0	-1.0	1
+density	string	,	-1.0	-1.0	30
+passed motto's	set of strings	,	-1.0	-1.0	1
+Area_code	numeric	,	573.0	573.0	1
+blank_emblem_size	string	,	-1.0	-1.0	144
+area_land_m2	numeric	,	201189.0	201189.0	1
+map_alt1	string	,	-1.0	-1.0	4
+dot_map_alt	string	,	-1.0	-1.0	5
+blank1_name_sec2	string	,	-1.0	-1.0	1
+population_blank1	string	,	-1.0	-1.0	100
+area_code_type	string	,	-1.0	-1.0	7
+blank1_name_sec1	string	,	-1.0	-1.0	16
+population_footnotes	string	,	-1.0	-1.0	10040
+pushpin_map	string	,	-1.0	-1.0	3670
+CBS]], [http://statline.cbs.nl/StatWeb/publication/?DM	set of strings	,	-1.0	-1.0	2
+established_title4	string	,	-1.0	-1.0	1
+established_title3	string	,	-1.0	-1.0	419
+established_title2	string	,	-1.0	-1.0	583
+established_title1	string	,	-1.0	-1.0	133
+population_estimate_as_of	numeric	,	2006.0	2006.0	1
+long_direction	string	,	-1.0	-1.0	2
+blank2_name_sec1	string	,	-1.0	-1.0	1
+government_type	string	,	-1.0	-1.0	10798
+Racial Groups	string	,	-1.0	-1.0	1
+blank2_name_sec2	string	,	-1.0	-1.0	1
+pushpin_map1	string	,	-1.0	-1.0	1
+twin2_country	string	,	-1.0	-1.0	5
+elevation_ft	numeric	,	-1.0	1670.0	10790
+Community Website	string	,	-1.0	-1.0	1
+postal2_code	numeric	,	39060.0	39288.0	2
+blank3_info_sec2	string	,	-1.0	-1.0	1
+blank3_info_sec1	string	,	-1.0	-1.0	1
+parts_type	string	,	-1.0	-1.0	10
+official_name	set of strings	,	-1.0	-1.0	11151
+image_blank_emblem	string	,	-1.0	-1.0	146
+demographics2_title1	string	,	-1.0	-1.0	1
+demographics2_title2	string	,	-1.0	-1.0	1
+demographics2_title3	string	,	-1.0	-1.0	1
+demographics2_title4	string	,	-1.0	-1.0	1
+blank4_name	string	,	-1.0	-1.0	3
+map_caption	string	,	-1.0	-1.0	10815
+metro_population_total	numeric	,	596452.0	596452.0	1
+image_map	string	,	-1.0	-1.0	11192
+demographics2_title5	string	,	-1.0	-1.0	1
+spouse_name1	string	,	-1.0	-1.0	1
+motto	string	,	-1.0	-1.0	10524
+blank6_info	string	,	-1.0	-1.0	3
+elevation_m	numeric	,	-1.0	509.0	10770
+blank6_name_sec1	string	,	-1.0	-1.0	1
+subdivision_type8	string	,	-1.0	-1.0	1
+area_km2	string	,	-1.0	-1.0	26
+area_metro_sq_mi	string	,	-1.0	-1.0	294
+population_density_blank2_km2	string	,	-1.0	-1.0	1
+link	string	,	-1.0	-1.0	7
+subdivision_type4	string	,	-1.0	-1.0	116
+subdivision_type3	string	,	-1.0	-1.0	303
+subdivision_type2	string	,	-1.0	-1.0	10846
+subdivision_type1	string	,	-1.0	-1.0	11216
+city_logo	string	,	-1.0	-1.0	2
+population_estimate, 2008	numeric	,	1310.0	1310.0	1
+blank_emblem_alt	string	,	-1.0	-1.0	4
+blank6_name_sec2	string	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	164
+Blog Website	string	,	-1.0	-1.0	1
+area_note	string	,	-1.0	-1.0	20
+area_toHELLO THIS IS WHERE I LIVEtal_km2	numeric	,	1.1	1.1	1
+blank2_info_sec2	string	,	-1.0	-1.0	1
+blank2_info_sec1	string	,	-1.0	-1.0	1
+mayor	string	,	-1.0	-1.0	5
+image_coat_of_arms	string	,	-1.0	-1.0	6
+established	string	,	-1.0	-1.0	8
+caption	string	,	-1.0	-1.0	5
+lat_direction	string	,	-1.0	-1.0	2
+laeNS	string	,	-1.0	-1.0	1
+pushpin_map_caption1	string	,	-1.0	-1.0	1
+pushpin_mapsize	string	,	-1.0	-1.0	3616
+lat_minutes	numeric	,	14.0	36.0	2
+image_map1	string	,	-1.0	-1.0	10777
+nrhp_type	string	,	-1.0	-1.0	3
+school district	string	,	-1.0	-1.0	1
+dialling_code	numeric	,	10.0	475.0	12
+longitude	string	,	-1.0	1053958.0	31
+area_blank1_sq_mi	string	,	-1.0	-1.0	33
+blank2_info	string	,	-1.0	-1.0	7
+work	string	,	-1.0	-1.0	1
+coordinates_region	string	,	-1.0	-1.0	7484
+population_density_km2	numeric	,	-1.0	1845.0	11101
+embed	string	,	-1.0	-1.0	3
+population_density_blank2_sq_mi	string	,	-1.0	-1.0	1
+skylinesize	numeric	,	250.0	280.0	4
+population_note	string	,	-1.0	-1.0	941
+demographics1_title1	string	,	-1.0	-1.0	1
+established_date	date	,	-1.0	-1.0	10786
+demographics1_title2	string	,	-1.0	-1.0	1
+mapsize1	string	,	-1.0	-1.0	10770
+demographics1_title3	string	,	-1.0	-1.0	1
+area_code	string	,	-1.0	-1.0	10799
+pushpin_label	string	,	-1.0	-1.0	1
+demographics1_title4	string	,	-1.0	-1.0	1
+demographics1_title5	string	,	-1.0	-1.0	1
+established_date3
+mower county fair8	date	,	-1.0	-1.0	1
+lat_degrees	numeric	,	42.0	47.0	2
+longEW	string	,	-1.0	-1.0	11068
+csa_population_total	numeric	,	630703.0	630703.0	1
+blank5_name_sec2	string	,	-1.0	-1.0	1
+website	string	,	-1.0	-1.0	10670
+blank5_name_sec1	string	,	-1.0	-1.0	1
+frame_style	string	,	-1.0	-1.0	162
+Nicknames	set of strings	,	-1.0	-1.0	1
+seat_type	string	,	-1.0	-1.0	20
+blank2_name	string	,	-1.0	-1.0	8
+dot_map_base_alt	string	,	-1.0	-1.0	4
+image1	string	,	-1.0	-1.0	2
+area_total_km2	numeric	,	-1.0	348.0	11151
+population_density_urban_sq_mi	string	,	-1.0	-1.0	123
+population_density_urban_km2	string	,	-1.0	-1.0	123
+blank5_info	string	,	-1.0	-1.0	3
+twin3	string	,	-1.0	-1.0	5
+twin2	set of strings	,	-1.0	-1.0	5
+twin1	set of strings	,	-1.0	-1.0	5
+government_footnotes	string	,	-1.0	-1.0	9860
+elevation_min_ft	numeric	,	-1.0	-1.0	9
+twin7	string	,	-1.0	-1.0	3
+twin6	string	,	-1.0	-1.0	4
+area_land_km2	numeric	,	0.9	337.2	11149
+twin5	string	,	-1.0	-1.0	4
+twin4	string	,	-1.0	-1.0	4
+area_waeter	numeric	,	22.5	22.5	1
+parts	string	,	-1.0	-1.0	10
+flag_size	string	,	-1.0	-1.0	522
+seal_caption	set of strings	,	-1.0	-1.0	1
+date_of_incorporation	date	,	-1.0	-1.0	1
+demographics2_info3	string	,	-1.0	-1.0	1
+demographics2_info4	string	,	-1.0	-1.0	1
+nixkname	string	,	-1.0	-1.0	1
+demographics2_info1	string	,	-1.0	-1.0	1
+demographics2_info2	string	,	-1.0	-1.0	1
+blank5_name	string	,	-1.0	-1.0	3
+demographics2_info5	string	,	-1.0	-1.0	1
+image_dot_map	string	,	-1.0	-1.0	99
+demonym	string	,	-1.0	-1.0	2
+area_total_sq_mi	numeric	,	0.4	134.3	10790
+image_seal	string	,	-1.0	-1.0	10829
+nickname	string	,	-1.0	-1.0	10587
+blank3_name_sec1	string	,	-1.0	-1.0	1
+blank3_name_sec2	string	,	-1.0	-1.0	1
+area km2	string	,	-1.0	-1.0	3
+image	string	,	-1.0	-1.0	15
+image_caption	string	,	-1.0	-1.0	10910
+blank4_info	string	,	-1.0	-1.0	3
+postal_code      Proxy-Connection: keep-alive
+Cache-Control: max-age	string	,	-1.0	-1.0	1
+elevation_min_m	numeric	,	-1.0	-1.0	9
+3	string	,	-1.0	-1.0	160
+pop_est_as_of	string	,	-1.0	-1.0	16
+2	string	,	-1.0	-1.0	162
+twin5_country	string	,	-1.0	-1.0	4
+1	string	,	-1.0	-1.0	163
+image_alt	string	,	-1.0	-1.0	30
+population_total	numeric	,	25.0	56298.0	11182
+7	string	,	-1.0	-1.0	8
+6	string	,	-1.0	-1.0	8
+5	date	,	-1.0	-1.0	12
+4	date	,	-1.0	-1.0	159
+9	string	,	-1.0	-1.0	3
+8	string	,	-1.0	-1.0	6
+area_land_sq_mi	numeric	,	0.4	130.2	10789
+area_blank1_km2	string	,	-1.0	-1.0	32
+leader_title1	string	,	-1.0	-1.0	10217
+subdivision_type	string	,	-1.0	-1.0	11220
+accessdate	date	,	-1.0	-1.0	1
+blank_name_sec2	string	,	-1.0	-1.0	5
+favorite_food	string	,	-1.0	-1.0	1
+area_total_dunam	string	,	-1.0	-1.0	3
+|image_map	string	,	-1.0	-1.0	1
+blank_name_sec1	string	,	-1.0	-1.0	17
+dot_mapsize	string	,	-1.0	-1.0	97
+leader_title6	string	,	-1.0	-1.0	2
+leader_title7	string	,	-1.0	-1.0	1
+leader_title4	string	,	-1.0	-1.0	98
+twin6_country	string	,	-1.0	-1.0	4
+leader_title5	string	,	-1.0	-1.0	4
+leader_title2	string	,	-1.0	-1.0	206
+leader_title3	string	,	-1.0	-1.0	166
+map	string	,	-1.0	-1.0	2
+percent_water	numeric	,	0.24	0.24	1
+long_seconds	numeric	,	23.0	26.0	2
+dot_map_caption	string	,	-1.0	-1.0	99
+latNS	string	,	-1.0	-1.0	11175
+population_density_urban_mi2	string	,	-1.0	-1.0	1
+Official Website	string	,	-1.0	-1.0	1
+shield_size	string	,	-1.0	-1.0	524
+blank_name        Proxy-Connection: keep-alive
+Cache-Control: max-age	string	,	-1.0	-1.0	1
+list_style	string	,	-1.0	-1.0	161
+total_area_sq_mi	numeric	,	6.6	6.6	1
+elevation_max_footnotes	string	,	-1.0	-1.0	1
+flag_alt	string	,	-1.0	-1.0	183
+y	numeric	,	71.0	71.0	1
+x	numeric	,	192.0	192.0	1
+area_blank2_sq_mi	string	,	-1.0	-1.0	1
+established_date3	date	,	-1.0	-1.0	417
+established_date4	date	,	-1.0	-1.0	1
+established_date1	date	,	-1.0	-1.0	133
+established_date2	date	,	-1.0	-1.0	584
+locmapin	string	,	-1.0	-1.0	3
+architecture	string	,	-1.0	-1.0	3
+The LEADER OF HECTOR	string	,	-1.0	-1.0	1
+founder	string	,	-1.0	-1.0	9
+|official_name	set of strings	,	-1.0	-1.0	8
+display	string	,	-1.0	-1.0	1
+population_as_of	string	,	-1.0	-1.0	11215
+image map	string	,	-1.0	-1.0	4
+nearest_city	set of strings	,	-1.0	-1.0	1
+coordinates_type	string	,	-1.0	-1.0	4736
+postal_code	numeric	,	13045.0	13803.0	10792
+other_name	string	,	-1.0	-1.0	136
+area_urban_km2	string	,	-1.0	-1.0	299
+[[Mayor]] Lionel C. Guay
+area_magnitude	numeric	,	-1.0	-1.0	1
+population_Metro Region	numeric	,	630703.0	630703.0	1
+blank1_info	string	,	956771.0	979397.0	10775
+blank5_info_sec1	string	,	-1.0	-1.0	1
+blank5_info_sec2	string	,	-1.0	-1.0	1
+Council_Members	set of strings	,	-1.0	-1.0	1
+population date	date	,	-1.0	-1.0	3
+area	string	,	-1.0	-1.0	3
+name	string	,	-1.0	-1.0	106
+coordinates_display	set of strings	,	-1.0	-1.0	9473
+subdivision_name	string	,	-1.0	-1.0	11221
+area_water_percent	numeric	,	-1.0	-1.0	482
+population	numeric	,	13.782	13.782	40
+image_skyline	string	,	-1.0	-1.0	10959
+mapsize	numeric	,	-1.0	-1.0	11149
+population_density_metro_km2	string	,	-1.0	-1.0	147
+imagesize	string	,	-1.0	-1.0	10884
+native_name_lang	string	,	-1.0	-1.0	12
+parts_style	set of strings	,	-1.0	-1.0	8
+founder_title	string	,	-1.0	-1.0	1
+subdivision_name3	set of strings	,	-1.0	-1.0	303
+subdivision_name4	string	,	-1.0	-1.0	116
+subdivision_name1	string	,	-1.0	-1.0	11218
+subdivision_name2	set of strings	,	-1.0	-1.0	10846
+native_name	string	,	-1.0	-1.0	216
+postal2_code_type	string	,	-1.0	-1.0	2
+lat_seconds	numeric	,	10.0	30.0	2
+utc_offset1	numeric	,	-1.0	-1.0	10
+extinct_date	date	,	-1.0	-1.0	2
+blank1_name	string	,	-1.0	-1.0	10779
+city_motto	string	,	-1.0	-1.0	1
+p2	string	,	-1.0	-1.0	7
+p1	string	,	-1.0	-1.0	7
+longd	numeric	,	73.0	106.0	11176
+postal_code_type	string	,	-1.0	-1.0	10793
+population_blank2_title	string	,	-1.0	-1.0	4
+longm	numeric	,	0.0	59.0	11056
+area_footnotes	string	,	-1.0	-1.0	10287
+longs	numeric	,	0.0	59.0	11011
+image_size	string	,	-1.0	-1.0	3
+settlement_type	string	,	-1.0	-1.0	11186
+image_map_size	numeric	,	250.0	250.0	3
+blank_info_sec2	string	,	-1.0	-1.0	1
+blank_name	string	,	-1.0	-1.0	10781
+blank_info_sec1	set of strings	,	3638264.0	3638264.0	6
+area_magnitude	string	,	-1.0	-1.0	10786
+population_est	string	,	-1.0	-1.0	16
+governing_body	string	,	-1.0	-1.0	3
+extinct_title	string	,	-1.0	-1.0	2
+coor_pinpoint	string	,	-1.0	-1.0	5
+county	string	,	-1.0	-1.0	1
+elevation_max_ft	numeric	,	-1.0	-1.0	8
+population_urban	string	,	-1.0	-1.0	304
+image_flag	string	,	-1.0	-1.0	10974
+region	string	,	-1.0	-1.0	1
+pushpin_map_alt	string	,	-1.0	-1.0	4
+Village President	string	,	-1.0	-1.0	2
+blank1_info_sec2	string	,	-1.0	-1.0	1
+publisher	string	,	-1.0	-1.0	2
+twin1_country	string	,	-1.0	-1.0	5
+population_density_metro_sq_mi	string	,	-1.0	-1.0	146
+blank1_info_sec1	set of strings	,	953925.0	953925.0	15
+timezone_DST	string	,	-1.0	-1.0	11167
+built	numeric	,	1867.0	1877.0	2
+area_water_sq_mi	numeric	,	0.0	9.1	10785
+twin4_country	string	,	-1.0	-1.0	4
+area_water_km2	numeric	,	0.0	23.6	11151
+demographics1_footnotes	string	,	-1.0	-1.0	1
+unit_pref	string	,	-1.0	-1.0	9375
+pushpin_map_caption	string	,	-1.0	-1.0	3633
+leader_title	string	,	-1.0	-1.0	10819
+government_type1	string	,	-1.0	-1.0	1
+area_metro_km2	string	,	-1.0	-1.0	292
+Mayor_name	string	,	-1.0	-1.0	1
+location	set of strings	,	-1.0	-1.0	2
+nickname(s)	set of strings	,	-1.0	-1.0	1
+twin3_country	string	,	-1.0	-1.0	5
+type	string	,	-1.0	-1.0	1
+population_metro	string	,	-1.0	-1.0	457
+area_urban_sq_mi	string	,	-1.0	-1.0	291
+elevation_max_m	numeric	,	-1.0	-1.0	8
+leader_name	string	,	-1.0	-1.0	10887
+area_rank	string	,	-1.0	-1.0	1
+lats	numeric	,	0.0	59.0	11025
+government_footnote	string	,	-1.0	-1.0	2
+title_style	string	,	-1.0	-1.0	157
+latd	numeric	,	34.0	44.0	11176
+utc_offset1_DST	numeric	,	-1.0	-1.0	10
+citylogo_size	string	,	-1.0	-1.0	2
+latm	numeric	,	0.0	59.0	11056
+pushpin_label_position	string	,	-1.0	-1.0	3665
+blank3_name	string	,	-1.0	-1.0	3
+Mayor	string	,	-1.0	-1.0	2
+image_shield	string	,	-1.0	-1.0	566
+demographics2_footnotes	string	,	-1.0	-1.0	1
+population_township	numeric	,	35138.0	35138.0	1
+timezone_CST	string	,	-1.0	-1.0	1
+coordinate_type	string	,	-1.0	-1.0	1
+blank_info	string	,	3602099.0	3676617.0	10781
+established_title	string	,	-1.0	-1.0	10617
+demographics_type1	string	,	-1.0	-1.0	1
+demographics_type2	string	,	-1.0	-1.0	1
+coordinates	string	,	-1.0	-1.0	7
+Official_nickname	string	,	-1.0	-1.0	1
+region_link	date	,	-1.0	-1.0	1
+added	date	,	-1.0	-1.0	3
+area_blank1_title	string	,	-1.0	-1.0	33
+school_district	string	,	-1.0	-1.0	1
+population_blank1_title	string	,	-1.0	-1.0	100
+dot_y	string	,	-1.0	-1.0	99
+dot_x	string	,	-1.0	-1.0	99
+elevation_footnotes	string	,	-1.0	-1.0	9960
+timezone1_DST	string	,	-1.0	-1.0	10
+seal_size	string	,	-1.0	-1.0	316
+blank6_info_sec2	string	,	-1.0	-1.0	1
+blank6_info_sec1	string	,	-1.0	-1.0	1
+density_total_km2	string	,	-1.0	-1.0	1
+seat	string	,	-1.0	-1.0	20
+total_type	string	,	-1.0	-1.0	11
+named_for	string	,	-1.0	-1.0	17
+utc_offset_DST	numeric	,	4.0	4.0	11032
+Thadius Beefawitz	string	,	-1.0	-1.0	1
+shield_alt	string	,	-1.0	-1.0	184
+demographics1_info1	string	,	-1.0	-1.0	1
+demographics1_info5	string	,	-1.0	-1.0	1
+population_county	numeric	,	8279.0	56665.0	2
+demographics1_info4	string	,	-1.0	-1.0	1
+area_blank2_title	string	,	-1.0	-1.0	1
+demographics1_info3	string	,	-1.0	-1.0	1
+demographics1_info2	string	,	-1.0	-1.0	1
+elevation_min_footnotes	string	,	-1.0	-1.0	2
+blank6_name	string	,	-1.0	-1.0	3
+latitude	string	,	-1.0	-1.0	31
+timezone1	string	,	-1.0	-1.0	10
+area_toteal	numeric	,	47.4	47.4	1
+date	date	,	-1.0	-1.0	4
+11	set of strings	,	-1.0	-1.0	1
+map_caption1	string	,	-1.0	-1.0	10773
+seal_alt	string	,	-1.0	-1.0	175
+long_minutes	numeric	,	26.0	33.0	2
+coordinates_footnotes	string	,	-1.0	-1.0	6
+Zip_code	string	,	-1.0	-1.0	1
+area_blank2_km2	string	,	-1.0	-1.0	1
+utc_offset	numeric	,	5.0	5.0	11169
+10	date	,	-1.0	-1.0	2
+long_degrees	numeric	,	72.0	88.0	2
+map_alt	string	,	-1.0	-1.0	11
+Legislative district	string	,	-1.0	-1.0	1
+coa	string	,	-1.0	-1.0	1
+blank4_name_sec1	string	,	-1.0	-1.0	1
+blank4_name_sec2	string	,	-1.0	-1.0	1
+town_councilors	numeric	,	9.0	9.0	1
+area-km2	string	,	-1.0	-1.0	3
+Sweetest Band ever	string	,	-1.0	-1.0	1
+leader_name7	string	,	-1.0	-1.0	1
+timezone	string	,	-1.0	-1.0	11169
+blank_emblem_type	string	,	-1.0	-1.0	49
+leader_name5	string	,	-1.0	-1.0	4
+leader_name6	string	,	-1.0	-1.0	2
+leader_name3	string	,	-1.0	-1.0	167
+leader_name4	string	,	-1.0	-1.0	99
+leader_name1	string	,	-1.0	-1.0	10215
+leader_name2	string	,	-1.0	-1.0	208
+leader_party	string	,	-1.0	-1.0	93
+population_density_blank1_km2	string	,	-1.0	-1.0	84
+blank4_info_sec1	string	,	-1.0	-1.0	1
+blank4_info_sec2	string	,	-1.0	-1.0	1
+blank3_info	string	,	-1.0	-1.0	3
+population_density_sq_mi	string	,	58.7	58.7	10668
+population_density_blank1_sq_mi	string	,	-1.0	-1.0	84
+twin7_country	string	,	-1.0	-1.0	3
+area_total_sq_super_mi	numeric	,	5.0	5.0	1
+population_metro_km2	string	,	-1.0	-1.0	1
+width	string	,	20.0	20.0	7
+url	string	,	-1.0	-1.0	3
+coor_type	string	,	-1.0	-1.0	6
+footnotes	string	,	-1.0	-1.0	175
+architect	set of strings	,	-1.0	-1.0	3
+population_demonym	string	,	-1.0	-1.0	5
+population_blank2	string	,	-1.0	-1.0	4
+maps[hide] Weather averages for St. Louis, Missouri  
+Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year 
+Average high °F (°C) 39
+(3) 44
+(6) 54
+(12) 67
+(19) 76
+(24) 85
+(30) 89
+(32) 87
+(31) 80
+(27) 69
+(21) 54
+(12) 43
+(6) 66
+(19) 
+Average low °F (°C) 21
+(-6) 25
+(-3) 34
+(1) 46
+(7) 55
+(12) 65
+(18) 69
+(20) 67
+(19) 59
+(15) 48
+(8) 36
+(2) 26
+(-3) 46
+(7) 
+Precipitation inches (mm) 2.0
+(51) 2.1
+(53) 3.3
+(84) 3.6
+(91) 3.9
+(99) 3.8
+(97) 3.8
+(97) 3.0
+(84) 3.0
+(84) 2.8
+(71) 3.1
+(79) 2.6
+(66) 37.1
+(942) 
+Source: Weatherbase[22] January 2007 
+ize1	string	,	-1.0	-1.0	1
+density	string	,	-1.0	-1.0	30
+passed motto's	set of strings	,	-1.0	-1.0	1
+Area_code	numeric	,	573.0	573.0	1
+blank_emblem_size	string	,	-1.0	-1.0	144
+area_land_m2	numeric	,	201189.0	201189.0	1
+map_alt1	string	,	-1.0	-1.0	4
+dot_map_alt	string	,	-1.0	-1.0	5
+blank1_name_sec2	string	,	-1.0	-1.0	1
+population_blank1	string	,	-1.0	-1.0	100
+area_code_type	string	,	-1.0	-1.0	7
+blank1_name_sec1	string	,	-1.0	-1.0	16
+population_footnotes	string	,	-1.0	-1.0	10040
+pushpin_map	string	,	-1.0	-1.0	3670
+CBS]], [http://statline.cbs.nl/StatWeb/publication/?DM	set of strings	,	-1.0	-1.0	2
+established_title4	string	,	-1.0	-1.0	1
+established_title3	string	,	-1.0	-1.0	419
+established_title2	string	,	-1.0	-1.0	583
+established_title1	string	,	-1.0	-1.0	133
+population_estimate_as_of	numeric	,	2006.0	2006.0	1
+long_direction	string	,	-1.0	-1.0	2
+blank2_name_sec1	string	,	-1.0	-1.0	1
+government_type	string	,	-1.0	-1.0	10798
+Racial Groups	string	,	-1.0	-1.0	1
+blank2_name_sec2	string	,	-1.0	-1.0	1
+pushpin_map1	string	,	-1.0	-1.0	1
+twin2_country	string	,	-1.0	-1.0	5
+elevation_ft	numeric	,	1099.0	1670.0	10790
+Community Website	string	,	-1.0	-1.0	1
+postal2_code	numeric	,	39060.0	39288.0	2
+blank3_info_sec2	string	,	-1.0	-1.0	1
+blank3_info_sec1	string	,	-1.0	-1.0	1
+parts_type	string	,	-1.0	-1.0	10
+official_name	set of strings	,	-1.0	-1.0	11151
+image_blank_emblem	string	,	-1.0	-1.0	146
+demographics2_title1	string	,	-1.0	-1.0	1
+demographics2_title2	string	,	-1.0	-1.0	1
+demographics2_title3	string	,	-1.0	-1.0	1
+demographics2_title4	string	,	-1.0	-1.0	1
+blank4_name	string	,	-1.0	-1.0	3
+map_caption	string	,	-1.0	-1.0	10815
+metro_population_total	numeric	,	596452.0	596452.0	1
+image_map	string	,	-1.0	-1.0	11192
+demographics2_title5	string	,	-1.0	-1.0	1
+spouse_name1	string	,	-1.0	-1.0	1
+motto	string	,	-1.0	-1.0	10524
+blank6_info	string	,	-1.0	-1.0	3
+elevation_m	numeric	,	335.0	509.0	10770
+blank6_name_sec1	string	,	-1.0	-1.0	1
+subdivision_type8	string	,	-1.0	-1.0	1
+area_km2	string	,	-1.0	-1.0	26
+area_metro_sq_mi	string	,	-1.0	-1.0	294
+population_density_blank2_km2	string	,	-1.0	-1.0	1
+link	string	,	-1.0	-1.0	7
+subdivision_type4	string	,	-1.0	-1.0	116
+subdivision_type3	string	,	-1.0	-1.0	303
+subdivision_type2	string	,	-1.0	-1.0	10846
+subdivision_type1	string	,	-1.0	-1.0	11216
+city_logo	string	,	-1.0	-1.0	2
+population_estimate, 2008	numeric	,	1310.0	1310.0	1
+blank_emblem_alt	string	,	-1.0	-1.0	4
+blank6_name_sec2	string	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	164
+Blog Website	string	,	-1.0	-1.0	1
+area_note	string	,	-1.0	-1.0	20
+area_toHELLO THIS IS WHERE I LIVEtal_km2	numeric	,	1.1	1.1	1
+blank2_info_sec2	string	,	-1.0	-1.0	1
+blank2_info_sec1	string	,	-1.0	-1.0	1
+mayor	string	,	-1.0	-1.0	5
+image_coat_of_arms	string	,	-1.0	-1.0	6
+established	string	,	-1.0	-1.0	8
+caption	string	,	-1.0	-1.0	5
+lat_direction	string	,	-1.0	-1.0	2
+laeNS	string	,	-1.0	-1.0	1
+pushpin_map_caption1	string	,	-1.0	-1.0	1
+pushpin_mapsize	string	,	-1.0	-1.0	3616
+lat_minutes	numeric	,	14.0	36.0	2
+image_map1	string	,	-1.0	-1.0	10777
+nrhp_type	string	,	-1.0	-1.0	3
+school district	string	,	-1.0	-1.0	1
+dialling_code	numeric	,	10.0	475.0	12
+longitude	string	,	104.236277	1053958.0	31
+area_blank1_sq_mi	string	,	-1.0	-1.0	33
+blank2_info	string	,	-1.0	-1.0	7
+work	string	,	-1.0	-1.0	1
+coordinates_region	string	,	-1.0	-1.0	7484
+population_density_km2	numeric	,	4.2	1845.0	11101
+embed	string	,	-1.0	-1.0	3
+population_density_blank2_sq_mi	string	,	-1.0	-1.0	1
+skylinesize	numeric	,	250.0	280.0	4
+population_note	string	,	-1.0	-1.0	941
+demographics1_title1	string	,	-1.0	-1.0	1
+established_date	date	,	-1.0	-1.0	10786
+demographics1_title2	string	,	-1.0	-1.0	1
+mapsize1	string	,	-1.0	-1.0	10770
+demographics1_title3	string	,	-1.0	-1.0	1
+area_code	string	,	-1.0	-1.0	10799
+pushpin_label	string	,	-1.0	-1.0	1
+demographics1_title4	string	,	-1.0	-1.0	1
+demographics1_title5	string	,	-1.0	-1.0	1
+established_date3
+mower county fair8	date	,	-1.0	-1.0	1
+lat_degrees	numeric	,	42.0	47.0	2
+longEW	string	,	-1.0	-1.0	11068
+csa_population_total	numeric	,	630703.0	630703.0	1
+blank5_name_sec2	string	,	-1.0	-1.0	1
+website	string	,	-1.0	-1.0	10670
+blank5_name_sec1	string	,	-1.0	-1.0	1
+frame_style	string	,	-1.0	-1.0	162
+Nicknames	set of strings	,	-1.0	-1.0	1
+seat_type	string	,	-1.0	-1.0	20
+blank2_name	string	,	-1.0	-1.0	8
+dot_map_base_alt	string	,	-1.0	-1.0	4
+image1	string	,	-1.0	-1.0	2
+area_total_km2	numeric	,	0.9	348.0	11151
+population_density_urban_sq_mi	string	,	-1.0	-1.0	123
+population_density_urban_km2	string	,	-1.0	-1.0	123

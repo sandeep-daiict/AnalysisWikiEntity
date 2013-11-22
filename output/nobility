@@ -1,0 +1,24 @@
+full name	string	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	1
+mother	date	,	-1.0	-1.0	1
+imgw	numeric	,	180.0	180.0	1
+spouse	date	,	-1.0	-1.0	1
+| name	string	,	-1.0	-1.0	1
+issue	set of strings	,	-1.0	-1.0	1
+date of birth	date	,	-1.0	-1.0	1
+noble family	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+father	string	,	-1.0	-1.0	1
+full name	string	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	1
+mother	date	,	-1.0	-1.0	1
+imgw	numeric	,	180.0	180.0	1
+spouse	date	,	-1.0	-1.0	1
+| name	string	,	-1.0	-1.0	1
+issue	set of strings	,	-1.0	-1.0	1
+date of birth	date	,	-1.0	-1.0	1
+noble family	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+father	string	,	-1.0	-1.0	1

@@ -1,0 +1,80 @@
+Next album	string	,	-1.0	-1.0	1
+Misc	string	,	-1.0	-1.0	1
+5}} [http://www.blender.com/guide/back-catalogue/55204/cosmic-slop.html link]
+* [[Robert Christgau]] (B) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+Type	string	,	-1.0	-1.0	11
+5}} [http://www.blender.com/guide/back-catalogue/55197/lets-take-it-to-stage.html link]
+* [[Robert Christgau]] (A-) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+5}} [http://www.blender.com/guide/back-catalogue/55208/tales-kidd-funkadelic.html link]
+* [[Robert Christgau]] (B+) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+Recorded	numeric	,	-1.0	1.9781979E7	10
+5}} [http://www.blender.com/guide/back-catalogue/55198/one-nation-under-groove.html link]
+* [[Robert Christgau]] (A) [http://www.robertchristgau.com/get_artist.php?name	set of strings	,	-1.0	-1.0	1
+Cover	string	,	-1.0	-1.0	11
+5}} [http://www.blender.com/guide/back-catalogue/55210/america-eats-its-youn.html link]
+* [[Robert Christgau]] (C+) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+| Name	string	,	-1.0	-1.0	1
+This album	string	,	-1.0	-1.0	10
+Genre	set of strings	,	-1.0	-1.0	10
+Vibe]]'' (favorable) [http://books.google.com/books?id	string	,	-1.0	-1.0	1
+Producer	string	,	-1.0	-1.0	10
+Artist	string	,	-1.0	-1.0	10
+5}} [http://www.allmusic.com/cg/amg.dll?p	string	,	-1.0	-1.0	8
+Released	date	,	-1.0	1985.0	10
+5}} [http://www.robertchristgau.com/xg/bl/funkadelic-08.php link]
+* [[Robert Christgau]] (A-) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+Last album	string	,	-1.0	-1.0	10
+5}} [http://www.sputnikmusic.com/album.php?albumid	string	,	-1.0	-1.0	2
+5}} [http://www.blender.com/guide/back-catalogue/55206/uncle-jam-wants-you.html link]
+* [[Robert Christgau]] (B+) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+Billboard]]'' (favorable) [http://books.google.com/books?id	string	,	-1.0	-1.0	1
+Name	string	,	-1.0	-1.0	9
+Upper caption	string	,	-1.0	-1.0	1
+5}} [http://books.google.com/books?id	string	,	-1.0	-1.0	8
+Reviews	string	,	-1.0	-1.0	9
+5}} [http://www.blender.com/guide/back-catalogue/55205/standing-on-verge-getting-it-on.html link]
+* [[Robert Christgau]] (B+) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+Length	numeric	,	-1.0	4147.0	10
+Label	string	,	-1.0	-1.0	10
+5}} [http://www.tower.com/america-eats-its-young-funkadelic-cd/wapi/105770886 link]
+* [[Pitchfork Media]] {8.1/10} [http://www.pitchforkmedia.com/article/record_review/17756-funkadelic-free-your-mind-maggot-brain-america-eats-its-young?artist_title	string	,	-1.0	-1.0	1
+Next album	string	,	-1.0	-1.0	1
+Misc	string	,	-1.0	-1.0	1
+5}} [http://www.blender.com/guide/back-catalogue/55204/cosmic-slop.html link]
+* [[Robert Christgau]] (B) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+Type	string	,	-1.0	-1.0	11
+5}} [http://www.blender.com/guide/back-catalogue/55197/lets-take-it-to-stage.html link]
+* [[Robert Christgau]] (A-) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+5}} [http://www.blender.com/guide/back-catalogue/55208/tales-kidd-funkadelic.html link]
+* [[Robert Christgau]] (B+) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+Recorded	numeric	,	1.9781979E7	1.9781979E7	10
+5}} [http://www.blender.com/guide/back-catalogue/55198/one-nation-under-groove.html link]
+* [[Robert Christgau]] (A) [http://www.robertchristgau.com/get_artist.php?name	set of strings	,	-1.0	-1.0	1
+Cover	string	,	-1.0	-1.0	11
+5}} [http://www.blender.com/guide/back-catalogue/55210/america-eats-its-youn.html link]
+* [[Robert Christgau]] (C+) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+| Name	string	,	-1.0	-1.0	1
+This album	string	,	-1.0	-1.0	10
+Genre	set of strings	,	-1.0	-1.0	10
+Vibe]]'' (favorable) [http://books.google.com/books?id	string	,	-1.0	-1.0	1
+Producer	string	,	-1.0	-1.0	10
+Artist	string	,	-1.0	-1.0	10
+5}} [http://www.allmusic.com/cg/amg.dll?p	string	,	-1.0	-1.0	8
+Released	date	,	1979.0	1985.0	10
+5}} [http://www.robertchristgau.com/xg/bl/funkadelic-08.php link]
+* [[Robert Christgau]] (A-) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+Last album	string	,	-1.0	-1.0	10
+5}} [http://www.sputnikmusic.com/album.php?albumid	string	,	-1.0	-1.0	2
+5}} [http://www.blender.com/guide/back-catalogue/55206/uncle-jam-wants-you.html link]
+* [[Robert Christgau]] (B+) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+Billboard]]'' (favorable) [http://books.google.com/books?id	string	,	-1.0	-1.0	1
+Name	string	,	-1.0	-1.0	9
+Upper caption	string	,	-1.0	-1.0	1
+5}} [http://books.google.com/books?id	string	,	-1.0	-1.0	8
+Reviews	string	,	-1.0	-1.0	9
+5}} [http://www.blender.com/guide/back-catalogue/55205/standing-on-verge-getting-it-on.html link]
+* [[Robert Christgau]] (B+) [http://www.robertchristgau.com/get_artist.php?name	string	,	-1.0	-1.0	1
+Length	numeric	,	4147.0	4147.0	10
+Label	string	,	-1.0	-1.0	10
+5}} [http://www.tower.com/america-eats-its-young-funkadelic-cd/wapi/105770886 link]
+* [[Pitchfork Media]] {8.1/10} [http://www.pitchforkmedia.com/article/record_review/17756-funkadelic-free-your-mind-maggot-brain-america-eats-its-young?artist_title	string	,	-1.0	-1.0	1

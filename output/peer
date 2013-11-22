@@ -1,0 +1,70 @@
+resting_place_coordinates	numeric	,	-1.0	-1.0	1
+parents	date	,	-1.0	-1.0	1
+successor	string	,	-1.0	-1.0	1
+birth_name	string	,	-1.0	-1.0	1
+heir-type	string	,	-1.0	-1.0	1
+issue	string	,	-1.0	-1.0	1
+years_active	numeric	,	-1.0	-1.0	1
+predecessor	string	,	-1.0	-1.0	2
+known_for	string	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	3
+death_place	set of strings	,	-1.0	-1.0	1
+other_titles	string	,	-1.0	-1.0	1
+image_size	string	,	-1.0	200.0	2
+offices	string	,	-1.0	-1.0	1
+spouse	date	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	2
+wars_and_battles	string	,	-1.0	-1.0	1
+other_names	string	,	-1.0	-1.0	1
+signature	string	,	-1.0	-1.0	1
+death_date	date	,	-1.0	-1.0	1
+birth_date	date	,	-1.0	-1.0	2
+body_discovered	string	,	-1.0	-1.0	1
+networth	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	2
+caption	set of strings	,	-1.0	-1.0	2
+display	string	,	-1.0	-1.0	1
+heir	string	,	-1.0	-1.0	1
+birth_place	string	,	-1.0	-1.0	2
+footnotes	string	,	-1.0	-1.0	1
+resting_place	set of strings	,	-1.0	-1.0	1
+death_cause	string	,	-1.0	-1.0	1
+nationality	string	,	-1.0	-1.0	1
+residence	string	,	-1.0	-1.0	2
+tenure	numeric	,	-1.0	-1.0	2
+locality	string	,	-1.0	-1.0	1
+resting_place_coordinates	numeric	,	-1.0	-1.0	1
+parents	date	,	-1.0	-1.0	1
+successor	string	,	-1.0	-1.0	1
+birth_name	string	,	-1.0	-1.0	1
+heir-type	string	,	-1.0	-1.0	1
+issue	string	,	-1.0	-1.0	1
+years_active	numeric	,	-1.0	-1.0	1
+predecessor	string	,	-1.0	-1.0	2
+known_for	string	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	3
+death_place	set of strings	,	-1.0	-1.0	1
+other_titles	string	,	-1.0	-1.0	1
+image_size	string	,	200.0	200.0	2
+offices	string	,	-1.0	-1.0	1
+spouse	date	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	2
+wars_and_battles	string	,	-1.0	-1.0	1
+other_names	string	,	-1.0	-1.0	1
+signature	string	,	-1.0	-1.0	1
+death_date	date	,	-1.0	-1.0	1
+birth_date	date	,	-1.0	-1.0	2
+body_discovered	string	,	-1.0	-1.0	1
+networth	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	2
+caption	set of strings	,	-1.0	-1.0	2
+display	string	,	-1.0	-1.0	1
+heir	string	,	-1.0	-1.0	1
+birth_place	string	,	-1.0	-1.0	2
+footnotes	string	,	-1.0	-1.0	1
+resting_place	set of strings	,	-1.0	-1.0	1
+death_cause	string	,	-1.0	-1.0	1
+nationality	string	,	-1.0	-1.0	1
+residence	string	,	-1.0	-1.0	2
+tenure	numeric	,	-1.0	-1.0	2
+locality	string	,	-1.0	-1.0	1

@@ -1,0 +1,36 @@
+result	set of strings	,	-1.0	-1.0	7
+combatant1	string	,	-1.0	-1.0	7
+combatant2	string	,	-1.0	-1.0	7
+territory	string	,	-1.0	-1.0	3
+partof	string	,	-1.0	-1.0	7
+casualties1	set of strings	,	-1.0	1.800022E9	7
+image	string	,	-1.0	-1.0	6
+caption	set of strings	,	-1.0	-1.0	7
+date	date	,	-1.0	-1.0	7
+alt	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+commander1	string	,	-1.0	-1.0	6
+commander2	set of strings	,	-1.0	-1.0	6
+conflict	string	,	-1.0	-1.0	7
+strength1	set of strings	,	-1.0	120000.0	6
+place	set of strings	,	-1.0	-1.0	7
+strength2	numeric	,	-1.0	73000.0	6
+casus	string	,	-1.0	-1.0	2
+result	set of strings	,	-1.0	-1.0	7
+combatant1	string	,	-1.0	-1.0	7
+combatant2	string	,	-1.0	-1.0	7
+territory	string	,	-1.0	-1.0	3
+partof	string	,	-1.0	-1.0	7
+casualties1	set of strings	,	1.800022E9	1.800022E9	7
+image	string	,	-1.0	-1.0	6
+caption	set of strings	,	-1.0	-1.0	7
+date	date	,	-1.0	-1.0	7
+alt	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+commander1	string	,	-1.0	-1.0	6
+commander2	set of strings	,	-1.0	-1.0	6
+conflict	string	,	-1.0	-1.0	7
+strength1	set of strings	,	120000.0	120000.0	6
+place	set of strings	,	-1.0	-1.0	7
+strength2	numeric	,	73000.0	73000.0	6
+casus	string	,	-1.0	-1.0	2

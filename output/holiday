@@ -1,0 +1,22 @@
+observedby	set of strings	,	-1.0	-1.0	1
+significance	string	,	-1.0	-1.0	1
+date{{next year}}	date	,	-1.0	-1.0	1
+|holiday_name	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	set of strings	,	-1.0	-1.0	1
+relatedto	set of strings	,	-1.0	-1.0	1
+type	string	,	-1.0	-1.0	1
+date	date	,	-1.0	-1.0	1
+date2009	date	,	-1.0	-1.0	1
+date{{CURRENTYEAR}}	date	,	-1.0	-1.0	1
+observedby	set of strings	,	-1.0	-1.0	1
+significance	string	,	-1.0	-1.0	1
+date{{next year}}	date	,	-1.0	-1.0	1
+|holiday_name	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	set of strings	,	-1.0	-1.0	1
+relatedto	set of strings	,	-1.0	-1.0	1
+type	string	,	-1.0	-1.0	1
+date	date	,	-1.0	-1.0	1
+date2009	date	,	-1.0	-1.0	1
+date{{CURRENTYEAR}}	date	,	-1.0	-1.0	1

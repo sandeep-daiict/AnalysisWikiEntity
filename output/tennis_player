@@ -1,0 +1,74 @@
+weight	string	,	-1.0	-1.0	1
+retired	numeric	,	1983.0	1983.0	1
+turnedpro	numeric	,	1968.0	1968.0	1
+FrenchOpenMixedresult	set of strings	,	-1.0	-1.0	1
+plays	string	,	-1.0	-1.0	1
+careerprizemoney	set of strings	,	-1.0	-1.0	1
+datebirth	date	,	-1.0	-1.0	1
+AustralianOpenMixedresult	string	,	-1.0	-1.0	1
+AustralianOpenDoublesresult	set of strings	,	-1.0	-1.0	1
+AustralianOpenresult	string	,	-1.0	-1.0	1
+FrenchOpenresult	string	,	-1.0	-1.0	1
+height	string	,	-1.0	-1.0	1
+placebirth	set of strings	,	-1.0	-1.0	1
+tennishofyear	numeric	,	1987.0	1987.0	1
+Mixed	string	,	-1.0	-1.0	1
+Wimbledonresult	set of strings	,	-1.0	-1.0	1
+USOpenresult	set of strings	,	-1.0	-1.0	1
+mf	string	,	-1.0	-1.0	1
+tennishofid	string	,	-1.0	-1.0	1
+singlesrecord	string	,	-1.0	-1.0	1
+singlestitles	string	,	-1.0	-1.0	1
+highestsinglesranking	numeric	,	-1.0	-1.0	1
+WimbledonDoublesresult	set of strings	,	-1.0	-1.0	1
+WimbledonMixedresult	set of strings	,	-1.0	-1.0	1
+nickname	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+doublestitles	string	,	-1.0	-1.0	1
+doublesrecord	string	,	-1.0	-1.0	1
+USOpenMixedresult	set of strings	,	-1.0	-1.0	1
+country	string	,	-1.0	-1.0	1
+mixedrecord	string	,	-1.0	-1.0	1
+residence	string	,	-1.0	-1.0	1
+playername	string	,	-1.0	-1.0	1
+mixedtitles	numeric	,	11.0	11.0	1
+FrenchOpenDoublesresult	string	,	-1.0	-1.0	1
+USOpenDoublesresult	set of strings	,	-1.0	-1.0	1
+highestdoublesranking	string	,	-1.0	-1.0	1
+weight	string	,	-1.0	-1.0	1
+retired	numeric	,	1983.0	1983.0	1
+turnedpro	numeric	,	1968.0	1968.0	1
+FrenchOpenMixedresult	set of strings	,	-1.0	-1.0	1
+plays	string	,	-1.0	-1.0	1
+careerprizemoney	set of strings	,	-1.0	-1.0	1
+datebirth	date	,	-1.0	-1.0	1
+AustralianOpenMixedresult	string	,	-1.0	-1.0	1
+AustralianOpenDoublesresult	set of strings	,	-1.0	-1.0	1
+AustralianOpenresult	string	,	-1.0	-1.0	1
+FrenchOpenresult	string	,	-1.0	-1.0	1
+height	string	,	-1.0	-1.0	1
+placebirth	set of strings	,	-1.0	-1.0	1
+tennishofyear	numeric	,	1987.0	1987.0	1
+Mixed	string	,	-1.0	-1.0	1
+Wimbledonresult	set of strings	,	-1.0	-1.0	1
+USOpenresult	set of strings	,	-1.0	-1.0	1
+mf	string	,	-1.0	-1.0	1
+tennishofid	string	,	-1.0	-1.0	1
+singlesrecord	string	,	-1.0	-1.0	1
+singlestitles	string	,	-1.0	-1.0	1
+highestsinglesranking	numeric	,	-1.0	-1.0	1
+WimbledonDoublesresult	set of strings	,	-1.0	-1.0	1
+WimbledonMixedresult	set of strings	,	-1.0	-1.0	1
+nickname	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+doublestitles	string	,	-1.0	-1.0	1
+doublesrecord	string	,	-1.0	-1.0	1
+USOpenMixedresult	set of strings	,	-1.0	-1.0	1
+country	string	,	-1.0	-1.0	1
+mixedrecord	string	,	-1.0	-1.0	1
+residence	string	,	-1.0	-1.0	1
+playername	string	,	-1.0	-1.0	1
+mixedtitles	numeric	,	11.0	11.0	1
+FrenchOpenDoublesresult	string	,	-1.0	-1.0	1
+USOpenDoublesresult	set of strings	,	-1.0	-1.0	1
+highestdoublesranking	string	,	-1.0	-1.0	1

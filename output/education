@@ -1,0 +1,36 @@
+attain post-secondary	numeric	,	27.0	27.0	1
+budget	set of strings	,	-1.0	-1.0	1
+country name	string	,	-1.0	-1.0	1
+agency image	string	,	-1.0	-1.0	1
+enroll primary	string	,	-1.0	-1.0	1
+agency	string	,	-1.0	-1.0	1
+primary languages	string	,	-1.0	-1.0	1
+system type	set of strings	,	-1.0	-1.0	1
+established events	string	,	-1.0	-1.0	1
+enroll secondary	string	,	-1.0	-1.0	1
+leader names	string	,	-1.0	-1.0	1
+literacy men	numeric	,	99.0	99.0	1
+leader titles	string	,	-1.0	-1.0	1
+attain secondary	numeric	,	85.0	85.0	1
+budget year	numeric	,	2007.0	2007.0	1
+enroll total	string	,	-1.0	-1.0	1
+enroll post-secondary	string	,	-1.0	-1.0	1
+literacy women	numeric	,	99.0	99.0	1
+attain post-secondary	numeric	,	27.0	27.0	1
+budget	set of strings	,	-1.0	-1.0	1
+country name	string	,	-1.0	-1.0	1
+agency image	string	,	-1.0	-1.0	1
+enroll primary	string	,	-1.0	-1.0	1
+agency	string	,	-1.0	-1.0	1
+primary languages	string	,	-1.0	-1.0	1
+system type	set of strings	,	-1.0	-1.0	1
+established events	string	,	-1.0	-1.0	1
+enroll secondary	string	,	-1.0	-1.0	1
+leader names	string	,	-1.0	-1.0	1
+literacy men	numeric	,	99.0	99.0	1
+leader titles	string	,	-1.0	-1.0	1
+attain secondary	numeric	,	85.0	85.0	1
+budget year	numeric	,	2007.0	2007.0	1
+enroll total	string	,	-1.0	-1.0	1
+enroll post-secondary	string	,	-1.0	-1.0	1
+literacy women	numeric	,	99.0	99.0	1

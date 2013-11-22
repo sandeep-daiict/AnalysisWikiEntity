@@ -1,0 +1,68 @@
+genre	string	,	-1.0	-1.0	6
+subject	string	,	-1.0	-1.0	3
+children	date	,	-1.0	-1.0	2
+citizenship	string	,	-1.0	-1.0	1
+influences	string	,	-1.0	-1.0	6
+education	string	,	-1.0	-1.0	1
+deathdate	date	,	-1.0	-1.0	5
+notableworks	string	,	-1.0	-1.0	4
+religion	string	,	-1.0	-1.0	1
+df	string	,	-1.0	-1.0	3
+spouse	set of strings	,	-1.0	-1.0	3
+alt	string	,	-1.0	-1.0	1
+movement	string	,	-1.0	-1.0	6
+name	string	,	-1.0	-1.0	6
+birthdate	date	,	-1.0	-1.0	7
+partner	string	,	-1.0	-1.0	2
+influenced	string	,	-1.0	-1.0	5
+mf	string	,	-1.0	-1.0	2
+signature	string	,	-1.0	-1.0	2
+occupation	date	,	-1.0	-1.0	7
+website	string	,	-1.0	-1.0	3
+image	string	,	-1.0	-1.0	7
+imagesize	string	,	-1.0	125.0	4
+caption	string	,	-1.0	-1.0	5
+period	set of strings	,	-1.0	-1.0	4
+alma_mater	string	,	-1.0	-1.0	2
+deathplace	string	,	-1.0	-1.0	5
+pseudonym	string	,	-1.0	-1.0	4
+nationality	string	,	-1.0	-1.0	4
+birthplace	set of strings	,	-1.0	-1.0	7
+awards	set of strings	,	-1.0	-1.0	2
+relatives	set of strings	,	-1.0	-1.0	2
+birthname	string	,	-1.0	-1.0	4
+ethnicity	string	,	-1.0	-1.0	2
+genre	string	,	-1.0	-1.0	6
+subject	string	,	-1.0	-1.0	3
+children	date	,	-1.0	-1.0	2
+citizenship	string	,	-1.0	-1.0	1
+influences	string	,	-1.0	-1.0	6
+education	string	,	-1.0	-1.0	1
+deathdate	date	,	-1.0	-1.0	5
+notableworks	string	,	-1.0	-1.0	4
+religion	string	,	-1.0	-1.0	1
+df	string	,	-1.0	-1.0	3
+spouse	set of strings	,	-1.0	-1.0	3
+alt	string	,	-1.0	-1.0	1
+movement	string	,	-1.0	-1.0	6
+name	string	,	-1.0	-1.0	6
+birthdate	date	,	-1.0	-1.0	7
+partner	string	,	-1.0	-1.0	2
+influenced	string	,	-1.0	-1.0	5
+mf	string	,	-1.0	-1.0	2
+signature	string	,	-1.0	-1.0	2
+occupation	date	,	-1.0	-1.0	7
+website	string	,	-1.0	-1.0	3
+image	string	,	-1.0	-1.0	7
+imagesize	string	,	125.0	125.0	4
+caption	string	,	-1.0	-1.0	5
+period	set of strings	,	-1.0	-1.0	4
+alma_mater	string	,	-1.0	-1.0	2
+deathplace	string	,	-1.0	-1.0	5
+pseudonym	string	,	-1.0	-1.0	4
+nationality	string	,	-1.0	-1.0	4
+birthplace	set of strings	,	-1.0	-1.0	7
+awards	set of strings	,	-1.0	-1.0	2
+relatives	set of strings	,	-1.0	-1.0	2
+birthname	string	,	-1.0	-1.0	4
+ethnicity	string	,	-1.0	-1.0	2

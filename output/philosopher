@@ -1,0 +1,36 @@
+death_date	date	,	-1.0	-1.0	2
+region	string	,	-1.0	-1.0	2
+birth_date	date	,	-1.0	-1.0	2
+birth_name	date	,	-1.0	-1.0	1
+school_tradition	string	,	-1.0	-1.0	2
+image_caption	date	,	-1.0	-1.0	1
+era	string	,	-1.0	-1.0	2
+caption	string	,	-1.0	-1.0	1
+influences	string	,	-1.0	-1.0	2
+birth_place	date	,	-1.0	-1.0	2
+death_place	set of strings	,	-1.0	-1.0	2
+image_name	string	,	-1.0	-1.0	2
+image_size	numeric	,	200.0	200.0	1
+color	string	,	-1.0	4.0	2
+main_interests	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	2
+influenced	set of strings	,	-1.0	-1.0	1
+notable_ideas	string	,	-1.0	-1.0	2
+death_date	date	,	-1.0	-1.0	2
+region	string	,	-1.0	-1.0	2
+birth_date	date	,	-1.0	-1.0	2
+birth_name	date	,	-1.0	-1.0	1
+school_tradition	string	,	-1.0	-1.0	2
+image_caption	date	,	-1.0	-1.0	1
+era	string	,	-1.0	-1.0	2
+caption	string	,	-1.0	-1.0	1
+influences	string	,	-1.0	-1.0	2
+birth_place	date	,	-1.0	-1.0	2
+death_place	set of strings	,	-1.0	-1.0	2
+image_name	string	,	-1.0	-1.0	2
+image_size	numeric	,	200.0	200.0	1
+color	string	,	4.0	4.0	2
+main_interests	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	2
+influenced	set of strings	,	-1.0	-1.0	1
+notable_ideas	string	,	-1.0	-1.0	2

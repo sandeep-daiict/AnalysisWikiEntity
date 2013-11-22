@@ -1,0 +1,26 @@
+death_date	date	,	-1.0	-1.0	1
+president	string	,	-1.0	-1.0	1
+successor	date	,	-1.0	-1.0	1
+birth_date	date	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+birth_place	set of strings	,	-1.0	-1.0	1
+predecessor	string	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	1
+death_place	set of strings	,	-1.0	-1.0	1
+order	numeric	,	31.0	31.0	1
+term_end	date	,	-1.0	-1.0	1
+name	set of strings	,	-1.0	-1.0	1
+term_start	date	,	-1.0	-1.0	1
+death_date	date	,	-1.0	-1.0	1
+president	string	,	-1.0	-1.0	1
+successor	date	,	-1.0	-1.0	1
+birth_date	date	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+birth_place	set of strings	,	-1.0	-1.0	1
+predecessor	string	,	-1.0	-1.0	1
+title	string	,	-1.0	-1.0	1
+death_place	set of strings	,	-1.0	-1.0	1
+order	numeric	,	31.0	31.0	1
+term_end	date	,	-1.0	-1.0	1
+name	set of strings	,	-1.0	-1.0	1
+term_start	date	,	-1.0	-1.0	1

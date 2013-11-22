@@ -1,0 +1,18 @@
+region	string	,	-1.0	-1.0	1
+pronunciation	string	,	-1.0	-1.0	1
+related names	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+origin	string	,	-1.0	-1.0	1
+imagesize	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+meaning	string	,	-1.0	-1.0	1
+region	string	,	-1.0	-1.0	1
+pronunciation	string	,	-1.0	-1.0	1
+related names	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+origin	string	,	-1.0	-1.0	1
+imagesize	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+meaning	string	,	-1.0	-1.0	1

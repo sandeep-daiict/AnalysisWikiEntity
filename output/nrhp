@@ -1,0 +1,42 @@
+lat_minutes	numeric	,	59.0	59.0	1
+added	date	,	-1.0	-1.0	1
+long_minutes	numeric	,	53.0	53.0	1
+location	set of strings	,	-1.0	-1.0	1
+locmapin	string	,	-1.0	-1.0	1
+nrhp_type	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+governing_body	string	,	-1.0	-1.0	1
+architecture	set of strings	,	-1.0	-1.0	1
+lat_direction	string	,	-1.0	-1.0	1
+long_direction	string	,	-1.0	-1.0	1
+architect	string	,	-1.0	-1.0	1
+lat_degrees	numeric	,	41.0	41.0	1
+area	string	,	-1.0	-1.0	1
+coord_display	set of strings	,	-1.0	-1.0	1
+long_degrees	numeric	,	71.0	71.0	1
+name	string	,	-1.0	-1.0	1
+built	numeric	,	1872.0	1872.0	1
+lat_seconds	numeric	,	9.0	9.0	1
+long_seconds	numeric	,	53.0	53.0	1
+lat_minutes	numeric	,	59.0	59.0	1
+added	date	,	-1.0	-1.0	1
+long_minutes	numeric	,	53.0	53.0	1
+location	set of strings	,	-1.0	-1.0	1
+locmapin	string	,	-1.0	-1.0	1
+nrhp_type	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+governing_body	string	,	-1.0	-1.0	1
+architecture	set of strings	,	-1.0	-1.0	1
+lat_direction	string	,	-1.0	-1.0	1
+long_direction	string	,	-1.0	-1.0	1
+architect	string	,	-1.0	-1.0	1
+lat_degrees	numeric	,	41.0	41.0	1
+area	string	,	-1.0	-1.0	1
+coord_display	set of strings	,	-1.0	-1.0	1
+long_degrees	numeric	,	71.0	71.0	1
+name	string	,	-1.0	-1.0	1
+built	numeric	,	1872.0	1872.0	1
+lat_seconds	numeric	,	9.0	9.0	1
+long_seconds	numeric	,	53.0	53.0	1

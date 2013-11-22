@@ -1,0 +1,52 @@
+Years_active	string	,	-1.0	-1.0	18
+Background	string	,	-1.0	-1.0	18
+Origin	set of strings	,	-1.0	-1.0	13
+| Name	string	,	-1.0	-1.0	3
+Current_members_of	set of strings	,	-1.0	-1.0	1
+df	set of strings	,	-1.0	-1.0	6
+Associated_acts	set of strings	,	-1.0	-1.0	14
+Occupation	set of strings	,	-1.0	-1.0	13
+Genre	string	,	-1.0	-1.0	18
+Past_members	string	,	-1.0	-1.0	4
+Birth_name	string	,	-1.0	-1.0	10
+mf	set of strings	,	-1.0	-1.0	4
+URL	string	,	-1.0	-1.0	12
+Associated acts	string	,	-1.0	-1.0	1
+Born	string	,	-1.0	-1.0	13
+Landscape	string	,	-1.0	-1.0	11
+Died	string	,	-1.0	-1.0	6
+Current_members	string	,	-1.0	-1.0	8
+Name	string	,	-1.0	-1.0	15
+Alias	string	,	-1.0	-1.0	9
+Voice_type	string	,	-1.0	-1.0	3
+Img_size	string	,	-1.0	250.0	12
+Img	string	,	-1.0	-1.0	17
+Img_capt	string	,	-1.0	-1.0	17
+Label	set of strings	,	-1.0	-1.0	18
+Instrument	set of strings	,	-1.0	-1.0	12
+Years_active	string	,	-1.0	-1.0	18
+Background	string	,	-1.0	-1.0	18
+Origin	set of strings	,	-1.0	-1.0	13
+| Name	string	,	-1.0	-1.0	3
+Current_members_of	set of strings	,	-1.0	-1.0	1
+df	set of strings	,	-1.0	-1.0	6
+Associated_acts	set of strings	,	-1.0	-1.0	14
+Occupation	set of strings	,	-1.0	-1.0	13
+Genre	string	,	-1.0	-1.0	18
+Past_members	string	,	-1.0	-1.0	4
+Birth_name	string	,	-1.0	-1.0	10
+mf	set of strings	,	-1.0	-1.0	4
+URL	string	,	-1.0	-1.0	12
+Associated acts	string	,	-1.0	-1.0	1
+Born	string	,	-1.0	-1.0	13
+Landscape	string	,	-1.0	-1.0	11
+Died	string	,	-1.0	-1.0	6
+Current_members	string	,	-1.0	-1.0	8
+Name	string	,	-1.0	-1.0	15
+Alias	string	,	-1.0	-1.0	9
+Voice_type	string	,	-1.0	-1.0	3
+Img_size	string	,	250.0	250.0	12
+Img	string	,	-1.0	-1.0	17
+Img_capt	string	,	-1.0	-1.0	17
+Label	set of strings	,	-1.0	-1.0	18
+Instrument	set of strings	,	-1.0	-1.0	12

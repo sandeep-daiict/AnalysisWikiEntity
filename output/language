@@ -1,0 +1,64 @@
+region	string	,	-1.0	-1.0	3
+ll6	string	,	-1.0	-1.0	1
+ll1	string	,	-1.0	-1.0	1
+states	set of strings	,	-1.0	-1.0	2
+nativename	string	,	-1.0	-1.0	2
+iso2b	string	,	-1.0	-1.0	1
+familycolor	string	,	-1.0	-1.0	3
+fam1	string	,	-1.0	-1.0	1
+rank	string	,	-1.0	-1.0	2
+pronunciation	set of strings	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	3
+iso2	string	,	-1.0	-1.0	2
+lc2	string	,	-1.0	-1.0	1
+iso1	string	,	-1.0	-1.0	3
+lc1	string	,	-1.0	-1.0	2
+lc4	string	,	-1.0	-1.0	1
+lc3	string	,	-1.0	-1.0	1
+lc6	string	,	-1.0	-1.0	1
+lc5	string	,	-1.0	-1.0	1
+agency	string	,	-1.0	-1.0	1
+script	string	,	-1.0	-1.0	2
+speakers	set of strings	,	-1.0	-1.0	3
+fam3	string	,	-1.0	-1.0	1
+fam2	string	,	-1.0	-1.0	2
+nation	string	,	-1.0	-1.0	1
+ld3	string	,	-1.0	-1.0	1
+iso2t	string	,	-1.0	-1.0	1
+ld2	string	,	-1.0	-1.0	1
+ld1	string	,	-1.0	-1.0	1
+ld6	string	,	-1.0	-1.0	1
+ld5	string	,	-1.0	-1.0	1
+ld4	date	,	-1.0	-1.0	1
+region	string	,	-1.0	-1.0	3
+ll6	string	,	-1.0	-1.0	1
+ll1	string	,	-1.0	-1.0	1
+states	set of strings	,	-1.0	-1.0	2
+nativename	string	,	-1.0	-1.0	2
+iso2b	string	,	-1.0	-1.0	1
+familycolor	string	,	-1.0	-1.0	3
+fam1	string	,	-1.0	-1.0	1
+rank	string	,	-1.0	-1.0	2
+pronunciation	set of strings	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	3
+iso2	string	,	-1.0	-1.0	2
+lc2	string	,	-1.0	-1.0	1
+iso1	string	,	-1.0	-1.0	3
+lc1	string	,	-1.0	-1.0	2
+lc4	string	,	-1.0	-1.0	1
+lc3	string	,	-1.0	-1.0	1
+lc6	string	,	-1.0	-1.0	1
+lc5	string	,	-1.0	-1.0	1
+agency	string	,	-1.0	-1.0	1
+script	string	,	-1.0	-1.0	2
+speakers	set of strings	,	-1.0	-1.0	3
+fam3	string	,	-1.0	-1.0	1
+fam2	string	,	-1.0	-1.0	2
+nation	string	,	-1.0	-1.0	1
+ld3	string	,	-1.0	-1.0	1
+iso2t	string	,	-1.0	-1.0	1
+ld2	string	,	-1.0	-1.0	1
+ld1	string	,	-1.0	-1.0	1
+ld6	string	,	-1.0	-1.0	1
+ld5	string	,	-1.0	-1.0	1
+ld4	date	,	-1.0	-1.0	1

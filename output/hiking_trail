@@ -1,0 +1,34 @@
+LowPoint	string	,	-1.0	-1.0	3
+Caption	string	,	-1.0	-1.0	3
+Sights	string	,	-1.0	-1.0	2
+Season	string	,	-1.0	-1.0	3
+Start/End Points	set of strings	,	-1.0	-1.0	3
+ElevChange	string	,	-1.0	-1.0	3
+Location	string	,	-1.0	-1.0	3
+display	string	,	-1.0	-1.0	2
+Photo	string	,	-1.0	-1.0	3
+Name	string	,	-1.0	-1.0	3
+HighPoint	string	,	-1.0	-1.0	3
+Length	string	,	-1.0	-1.0	2
+name	set of strings	,	-1.0	-1.0	2
+Difficulty	string	,	-1.0	-1.0	3
+Length_mi	numeric	,	135.0	135.0	1
+Use	string	,	-1.0	-1.0	3
+Designation	string	,	-1.0	-1.0	3
+LowPoint	string	,	-1.0	-1.0	3
+Caption	string	,	-1.0	-1.0	3
+Sights	string	,	-1.0	-1.0	2
+Season	string	,	-1.0	-1.0	3
+Start/End Points	set of strings	,	-1.0	-1.0	3
+ElevChange	string	,	-1.0	-1.0	3
+Location	string	,	-1.0	-1.0	3
+display	string	,	-1.0	-1.0	2
+Photo	string	,	-1.0	-1.0	3
+Name	string	,	-1.0	-1.0	3
+HighPoint	string	,	-1.0	-1.0	3
+Length	string	,	-1.0	-1.0	2
+name	set of strings	,	-1.0	-1.0	2
+Difficulty	string	,	-1.0	-1.0	3
+Length_mi	numeric	,	135.0	135.0	1
+Use	string	,	-1.0	-1.0	3
+Designation	string	,	-1.0	-1.0	3

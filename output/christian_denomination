@@ -1,0 +1,28 @@
+main_classification	string	,	-1.0	-1.0	1
+separations	set of strings	,	-1.0	-1.0	1
+website	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+separated_from	string	,	-1.0	-1.0	1
+theology	string	,	-1.0	-1.0	1
+founded_place	date	,	-1.0	-1.0	1
+founded_date	date	,	-1.0	-1.0	1
+area	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+congregations	numeric	,	43669.0	43669.0	1
+members	string	,	-1.0	-1.0	1
+governance	string	,	-1.0	-1.0	1
+main_classification	string	,	-1.0	-1.0	1
+separations	set of strings	,	-1.0	-1.0	1
+website	string	,	-1.0	-1.0	1
+image	string	,	-1.0	-1.0	1
+caption	string	,	-1.0	-1.0	1
+separated_from	string	,	-1.0	-1.0	1
+theology	string	,	-1.0	-1.0	1
+founded_place	date	,	-1.0	-1.0	1
+founded_date	date	,	-1.0	-1.0	1
+area	string	,	-1.0	-1.0	1
+name	string	,	-1.0	-1.0	1
+congregations	numeric	,	43669.0	43669.0	1
+members	string	,	-1.0	-1.0	1
+governance	string	,	-1.0	-1.0	1
